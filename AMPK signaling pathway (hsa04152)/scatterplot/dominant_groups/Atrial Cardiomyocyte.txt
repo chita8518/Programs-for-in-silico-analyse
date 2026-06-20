@@ -1,0 +1,15 @@
+Гены с доминирующим типом клетки: Atrial Cardiomyocyte
+============================================================
+
+PRKAB2
+PPP2R2C
+RHEB
+PRKAG2
+PPP2R3B
+PPP2CB
+INS
+ULK1
+IGF1R
+STRADA
+CREB3L3
+PIK3R2
