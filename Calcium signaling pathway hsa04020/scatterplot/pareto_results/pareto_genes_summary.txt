@@ -1,0 +1,40 @@
+Calcium signaling pathway hsa04020
+Парето-оптимальные гены для клеточного типа: Adipocyte
+PPP3CA
+EGFR
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+TRDN
+CAMK2B
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+KDR
+NOS3
+CALM1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+NTRK1
+PDGFRA
+FGFR4
+ADCY1
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+ADCY8
+NOS2
+NFATC1
+GNAS
+Парето-оптимальные гены для клеточного типа: Lymphoid
+ORAI1
+Парето-оптимальные гены для клеточного типа: Mast cell
+TGFA
+RYR3
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+CHRM1
+GRIN2A
+Парето-оптимальные гены для клеточного типа: Mural cell
+PDGFRB
+Парето-оптимальные гены для клеточного типа: Myeloid
+PPP3R1
+GNAQ
+RYR1
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+RYR2
+PHKA2
+CACNA1C
+HRC
