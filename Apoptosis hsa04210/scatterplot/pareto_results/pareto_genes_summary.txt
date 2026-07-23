@@ -1,0 +1,30 @@
+Apoptosis hsa04210
+Парето-оптимальные гены для клеточного типа: Adipocyte
+RIPK1
+MAP3K5
+XIAP
+BCL2L1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+CASP9
+CFLAR
+RAF1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+TNFRSF10B
+HRAS
+KRAS
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+BCL2L11
+CASP10
+CASP3
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CASP8
+PMAIP1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+BIRC3
+TNFRSF1A
+Парето-оптимальные гены для клеточного типа: Myeloid
+BIRC2
+APAF1
+BID
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+TRAF2
