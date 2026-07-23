@@ -1,0 +1,25 @@
+Arrhythmogenic right ventricular cardiomyopathy hsa05412
+Парето-оптимальные гены для клеточного типа: Adipocyte
+	ITGB5
+	CACNG1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+	CACNA1D
+	ITGB3
+	SNTA1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+	ACTB
+	ITGB1
+	ACTG1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+	ITGB7
+Парето-оптимальные гены для клеточного типа: Myeloid
+	CTNNB1
+Парето-оптимальные гены для клеточного типа: Neural cell
+	DAG1
+	SGCB
+	ITGB8
+	ITGB4
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+	ITGB6
+	CACNB2
+	CACNA1C
