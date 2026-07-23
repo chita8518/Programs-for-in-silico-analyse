@@ -1,0 +1,9 @@
+Гены с доминирующим типом клетки: Lymphatic Endothelial cell
+============================================================
+
+PRKCZ
+TCF7L1
+TGFBR2
+WWTR1
+AMOT
+TEAD2

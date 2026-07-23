@@ -1,0 +1,13 @@
+cell_type	0
+Atrial Cardiomyocyte	0.80469364
+Ventricular Cardiomyocyte	0.8438536
+Fibroblast	0.21211478
+Endothelial cell	0.29121253
+Lymphatic Endothelial cell	0.20883332
+Mural cell	0.27143145
+Mesothelial cell	0.2757547
+Neural cell	0.28123236
+Adipocyte	0.2355188
+Myeloid	0.26699945
+Lymphoid	0.20086755
+Mast cell	0.08707121

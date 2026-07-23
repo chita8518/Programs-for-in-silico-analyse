@@ -1,0 +1,21 @@
+Notch hsa04330
+Парето-оптимальные гены для клеточного типа: Adipocyte
+NOTCH2
+MAML1
+SNW1
+EP300
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+HDAC1
+APH1A
+PSENEN
+Парето-оптимальные гены для клеточного типа: Fibroblast
+MAML2
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+NOTCH1
+NUMB
+Парето-оптимальные гены для клеточного типа: Mast cell
+MAML3
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+RBPJL
+Парето-оптимальные гены для клеточного типа: Myeloid
+RBPJ

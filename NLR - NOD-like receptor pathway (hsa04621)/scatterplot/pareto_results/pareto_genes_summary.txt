@@ -1,0 +1,25 @@
+NLR - NOD-like receptor pathway (hsa04621)
+Парето-оптимальные гены для клеточного типа: Adipocyte
+BCL2
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MFN1
+TRAF6
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+TXNIP
+GSDMD
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CASP8
+HSP90AA1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+TICAM1
+IRF3
+Парето-оптимальные гены для клеточного типа: Myeloid
+NLRP3
+IKBKB
+PYCARD
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+MFN2
+VDAC1
+TRAF2
+TAB1

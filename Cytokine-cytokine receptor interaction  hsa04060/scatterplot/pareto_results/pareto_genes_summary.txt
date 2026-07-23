@@ -1,0 +1,36 @@
+Cytokine-cytokine receptor interaction  hsa04060
+Парето-оптимальные гены для клеточного типа: Adipocyte
+BMPR2
+LEP
+CNTFR
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+ACVR1
+LIFR
+BMPR1A
+CCL17
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CXCL2
+CSF3
+Парето-оптимальные гены для клеточного типа: Fibroblast
+CXCL14
+CXCL12
+CCL11
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+CCL21
+Парето-оптимальные гены для клеточного типа: Lymphoid
+XCL2
+CCL5
+Парето-оптимальные гены для клеточного типа: Mast cell
+PPBP
+IL4R
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+CXCL6
+CXCL1
+CCL2
+Парето-оптимальные гены для клеточного типа: Mural cell
+THPO
+CCL26
+Парето-оптимальные гены для клеточного типа: Myeloid
+CCR1
+CXCL8
+IL17RA

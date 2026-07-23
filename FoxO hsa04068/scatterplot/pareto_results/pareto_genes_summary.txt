@@ -1,0 +1,29 @@
+FoxO hsa04068
+Парето-оптимальные гены для клеточного типа: Adipocyte
+IGF1
+FOXO1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+RAF1
+EGF
+INS
+IGF1R
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CDKN1A
+HRAS
+CDK2
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+CCND1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CDKN1B
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+SGK1
+Парето-оптимальные гены для клеточного типа: Myeloid
+CCNB1
+GRB2
+MAPK1
+Парето-оптимальные гены для клеточного типа: Neural cell
+CCNB2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1
+BRAF
+INSR

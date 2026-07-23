@@ -1,0 +1,46 @@
+PI3K-AKT hsa04151
+Парето-оптимальные гены для клеточного типа: Adipocyte
+GHR
+IGF1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+EGF
+IGF1R
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+ITGA6
+HSP90AB1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+NTRK1
+LAMC1
+PDGFRA
+LAMB1
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+EPHA2
+FLT4
+EPO
+ITGA5
+Парето-оптимальные гены для клеточного типа: Lymphoid
+IL2RG
+GNG2
+HSP90AA1
+Парето-оптимальные гены для клеточного типа: Mast cell
+TGFA
+KIT
+PIK3R6
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+MET
+Парето-оптимальные гены для клеточного типа: Mural cell
+PDGFRB
+EPOR
+Парето-оптимальные гены для клеточного типа: Myeloid
+CSF1R
+PIK3AP1
+PIK3R5
+GRB2
+Парето-оптимальные гены для клеточного типа: Neural cell
+LPAR1
+ERBB3
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+ITGAV
+PIK3R1
+INSR

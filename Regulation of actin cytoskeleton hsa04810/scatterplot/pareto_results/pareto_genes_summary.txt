@@ -1,0 +1,46 @@
+Regulation of actin cytoskeleton hsa04810
+Парето-оптимальные гены для клеточного типа: Adipocyte
+SOS1
+EGFR
+RAC3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MYL9
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+ITGA1
+ACTB
+RAC1
+ACTG1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+PDGFRA
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+PAK3
+ITGA5
+PXN
+ACTN1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+ITGB7
+ITGB2
+Парето-оптимальные гены для клеточного типа: Mast cell
+PAK1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+WASF1
+FGFR2
+MYH10
+BAIAP2
+Парето-оптимальные гены для клеточного типа: Mural cell
+MYH11
+Парето-оптимальные гены для клеточного типа: Myeloid
+PAK2
+CYFIP1
+IQGAP1
+VAV1
+Парето-оптимальные гены для клеточного типа: Neural cell
+ITGB8
+PTK2
+ITGB4
+SRC
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+ITGB6
+VCL
+MYH14

@@ -1,0 +1,28 @@
+Cytosolic DNA-sensing pathway - hsa04623
+Парето-оптимальные гены для клеточного типа: Adipocyte
+RIPK1
+POLR3B
+POLR3H
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+IFNA1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CXCL10
+POLR2K
+POLR2L
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+POLR2H
+POLR1D
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CCL5
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+FADD
+POLR2E
+DNASE2
+IRF3
+Парето-оптимальные гены для клеточного типа: Myeloid
+NLRP3
+IKBKB
+PYCARD
+Парето-оптимальные гены для клеточного типа: Neural cell
+POLR3G
+POLR2F

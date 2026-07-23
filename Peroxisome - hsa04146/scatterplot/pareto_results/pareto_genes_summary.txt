@@ -1,0 +1,11 @@
+Peroxisome - hsa04146
+Парето-оптимальные гены для клеточного типа: Adipocyte
+PEX14
+AGXT
+CAT
+PEX5
+ACOX1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+PEX12
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PEX7

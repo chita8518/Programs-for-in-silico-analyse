@@ -1,0 +1,41 @@
+Rap1 signaling pathway hsa04015
+Парето-оптимальные гены для клеточного типа: Adipocyte
+IGF1
+TLN2
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+RAF1
+EGF
+ITGB3
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+KDR
+VEGFC
+ACTB
+CALM1
+ACTG1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+PDGFRA
+FGFR4
+VEGFD
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+ADCY8
+Парето-оптимальные гены для клеточного типа: Lymphoid
+RAP1B
+Парето-оптимальные гены для клеточного типа: Mast cell
+KIT
+PRKCA
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+GRIN1
+FGFR2
+TIAM1
+Парето-оптимальные гены для клеточного типа: Mural cell
+PDGFRB
+Парето-оптимальные гены для клеточного типа: Myeloid
+RAP1A
+LCP2
+Парето-оптимальные гены для клеточного типа: Neural cell
+LPAR1
+SRC
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+MAGI1
+PIK3R1
+BRAF

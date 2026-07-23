@@ -1,0 +1,35 @@
+Hippo-YAPTAZ hsa04390
+Парето-оптимальные гены для клеточного типа: Adipocyte
+TCF7L2
+WNT3
+SMAD7
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+APC
+BMPR1A
+AXIN2
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+YWHAE
+YWHAB
+YWHAH
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+PRKCZ
+TGFBR2
+WWTR1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+LEF1
+TCF7
+PARD6A
+LLGL2
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+WNT5A
+PRKCI
+Парето-оптимальные гены для клеточного типа: Myeloid
+CTNNB1
+PPP2CA
+YWHAZ
+Парето-оптимальные гены для клеточного типа: Neural cell
+CTNNA1
+APC2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+CTNNA3
+BTRC

@@ -1,0 +1,10 @@
+Гены с доминирующим типом клетки: Ventricular Cardiomyocyte
+============================================================
+
+UQCRH
+NDUFS4
+CYC1
+COX5A
+COX6A2
+UQCRFS1
+COX7A1

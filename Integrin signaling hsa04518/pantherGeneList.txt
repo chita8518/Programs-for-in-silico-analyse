@@ -1,0 +1,156 @@
+HUMAN|HGNC=3694|UniProtKB=P02679	FGG	Fibrinogen gamma chain;FGG;PTN002499052;orthologs	FIBRINOGEN GAMMA CHAIN (PTHR19143:SF338)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=4617|UniProtKB=P49841	GSK3B	Glycogen synthase kinase-3 beta;GSK3B;PTN002514197;orthologs	GLYCOGEN SYNTHASE KINASE-3 BETA (PTHR24057:SF8)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=4893|UniProtKB=P14210	HGF	Hepatocyte growth factor;HGF;PTN002543447;orthologs	HEPATOCYTE GROWTH FACTOR (PTHR24261:SF8)	serine protease(PC00203)	Homo sapiens
+HUMAN|HGNC=6142|UniProtKB=P23229	ITGA6	Integrin alpha-6;ITGA6;PTN002509377;orthologs	INTEGRIN ALPHA-6 (PTHR23220:SF9)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=8976|UniProtKB=P42338	PIK3CB	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform;PIK3CB;PTN002467581;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT BETA ISOFORM (PTHR10048:SF33)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=7670|UniProtKB=Q9Y6Q9	RAC3	Nuclear receptor coactivator 3;NCOA3;PTN002473103;orthologs	NUCLEAR RECEPTOR COACTIVATOR 3 (PTHR10684:SF3)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=6155|UniProtKB=P05107	ITGB2	Integrin beta-2;ITGB2;PTN002467829;orthologs	INTEGRIN BETA-2 (PTHR10082:SF15)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6307|UniProtKB=P35968	KDR	Vascular endothelial growth factor receptor 2;KDR;PTN002521309;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 2 (PTHR24416:SF45)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=14603|UniProtKB=Q9Y222	DMP1	Cyclin-D-binding Myb-like transcription factor 1;DMTF1;PTN002472214;orthologs	CYCLIN-D-BINDING MYB-LIKE TRANSCRIPTION FACTOR 1 (PTHR46380:SF2)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=2514|UniProtKB=P35222	CTNNB1	Catenin beta-1;CTNNB1;PTN002511128;orthologs	CATENIN BETA-1 (PTHR45976:SF4)		Homo sapiens
+HUMAN|HGNC=1318|UniProtKB=P01024	C3	Complement C3;C3;PTN002478733;orthologs	COMPLEMENT C3 (PTHR11412:SF81)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=8981|UniProtKB=Q92569	PIK3R3	Phosphatidylinositol 3-kinase regulatory subunit gamma;PIK3R3;PTN002468393;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT GAMMA (PTHR10155:SF2)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=9803|UniProtKB=P60763	RAC3	Ras-related C3 botulinum toxin substrate 3;RAC3;PTN002514694;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 3 (PTHR24072:SF325)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6483|UniProtKB=Q16787	LAMA3	Laminin subunit alpha-3;LAMA3;PTN002471743;orthologs	LAMININ SUBUNIT ALPHA-3 (PTHR15036:SF34)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=11953|UniProtKB=Q92752	TNR	Tenascin-R;TNR;PTN002499053;orthologs	TENASCIN-R (PTHR19143:SF254)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2211|UniProtKB=P12109	COL6A1	Collagen alpha-1(VI) chain;COL6A1;PTN002544441;orthologs	COLLAGEN ALPHA-1(VI) CHAIN (PTHR24020:SF18)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6490|UniProtKB=Q13751	LAMB3	Laminin subunit beta-3;LAMB3;PTN002471674;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=6491|UniProtKB=A4D0S4	LAMB4	Laminin subunit beta-4;LAMB4;PTN002471679;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=7665|UniProtKB=O43639	NCK2	Cytoplasmic protein NCK2;NCK2;PTN002543461;orthologs	CYTOPLASMIC PROTEIN NCK2 (PTHR19969:SF12)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=12682|UniProtKB=P49767	VEGFC	Vascular endothelial growth factor C;VEGFC;PTN002485914;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR C (PTHR12025:SF3)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=3763|UniProtKB=P17948	FLT1	Vascular endothelial growth factor receptor 1;FLT1;PTN002521317;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 1 (PTHR24416:SF390)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11255|UniProtKB=P10451	SPP1	Osteopontin;SPP1;PTN002471978;orthologs	OSTEOPONTIN (PTHR10607:SF1)	cytokine(PC00083)	Homo sapiens
+HUMAN|HGNC=5345|UniProtKB=P13598	ICAM2	Intercellular adhesion molecule 2;ICAM2;PTN002492630;orthologs	INTERCELLULAR ADHESION MOLECULE 2 (PTHR13771:SF3)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=15889|UniProtKB=Q9BQL6	FERMT1	Fermitin family homolog 1;FERMT1;PTN002497113;orthologs	FERMITIN FAMILY HOMOLOG 1 (PTHR16160:SF12)		Homo sapiens
+HUMAN|HGNC=9802|UniProtKB=P15153	RAC2	Ras-related C3 botulinum toxin substrate 2;RAC2;PTN002514693;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 2 (PTHR24072:SF169)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6135|UniProtKB=O75578	ITGA10	Integrin alpha-10;ITGA10;PTN002509410;orthologs	INTEGRIN ALPHA-10 (PTHR23220:SF26)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=30620|UniProtKB=Q9GZP0	PDGFD	Platelet-derived growth factor D;PDGFD;PTN002481184;orthologs	PLATELET-DERIVED GROWTH FACTOR D (PTHR11633:SF4)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=6482|UniProtKB=P24043	LAMA2	Laminin subunit alpha-2;LAMA2;PTN002471752;orthologs	LAMININ SUBUNIT ALPHA-2 (PTHR15036:SF65)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6148|UniProtKB=P20701	ITGAL	Integrin alpha-L;ITGAL;PTN002509400;orthologs	INTEGRIN ALPHA-L (PTHR23220:SF84)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=9801|UniProtKB=P63000	RAC1	Ras-related C3 botulinum toxin substrate 1;RAC1;PTN002514697;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 1 (PTHR24072:SF395)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=3708|UniProtKB=O43915	VEGFD	Vascular endothelial growth factor D;VEGFD;PTN002485919;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR D (PTHR12025:SF11)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=12665|UniProtKB=P18206	VCL	Vinculin;VCL;PTN002498090;orthologs	VINCULIN (PTHR46180:SF6)		Homo sapiens
+HUMAN|HGNC=1582|UniProtKB=P24385	CCND1	G1_S-specific cyclin-D1;CCND1;PTN002468715;orthologs	G1_S-SPECIFIC CYCLIN-D1 (PTHR10177:SF67)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=6145|UniProtKB=Q13797	ITGA9	Integrin alpha-9;ITGA9;PTN002509392;orthologs	INTEGRIN ALPHA-9 (PTHR23220:SF69)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6134|UniProtKB=P56199	ITGA1	Integrin alpha-1;ITGA1;PTN002509395;orthologs	INTEGRIN ALPHA-1 (PTHR23220:SF22)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=2206|UniProtKB=P53420	COL4A4	Collagen alpha-4(IV) chain;COL4A4;PTN002513087;orthologs	COLLAGEN ALPHA-4(IV) CHAIN (PTHR24023:SF714)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6486|UniProtKB=P07942	LAMB1	Laminin subunit beta-1;LAMB1;PTN002471681;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=5318|UniProtKB=P24821	TNC	Tenascin;TNC;PTN002499050;orthologs	TENASCIN (PTHR46708:SF1)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=8801|UniProtKB=Q9NRA1	PDGFC	Platelet-derived growth factor C;PDGFC;PTN002481183;orthologs	PLATELET-DERIVED GROWTH FACTOR C (PTHR11633:SF5)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=5464|UniProtKB=P05019	IGF1	Insulin-like growth factor I;IGF1;PTN002479134;orthologs	INSULIN-LIKE GROWTH FACTOR I (PTHR46845:SF1)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=11976|UniProtKB=P22105	TNXB	Tenascin-X;TNXB;PTN002499057;orthologs	TENASCIN-X (PTHR46708:SF3)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=8893|UniProtKB=P49763	PGF	Placenta growth factor;PGF;PTN002485917;orthologs	PLACENTA GROWTH FACTOR (PTHR12025:SF9)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=6153|UniProtKB=P05556	ITGB1	Integrin beta-1;ITGB1;PTN002467835;orthologs	INTEGRIN BETA-1 (PTHR10082:SF28)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=163|UniProtKB=P12814	ACTN1	Alpha-actinin-1;ACTN1;PTN002539723;orthologs	ALPHA-ACTININ-1 (PTHR11915:SF434)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=5344|UniProtKB=P05362	ICAM1	Intercellular adhesion molecule 1;ICAM1;PTN002492632;orthologs	INTERCELLULAR ADHESION MOLECULE 1 (PTHR13771:SF18)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6141|UniProtKB=P08648	ITGA5	Integrin alpha-5;ITGA5;PTN002509409;orthologs	INTEGRIN ALPHA-5 (PTHR23220:SF3)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6160|UniProtKB=P18084	ITGB5	Integrin beta-5;ITGB5;PTN002467826;orthologs	INTEGRIN BETA-5 (PTHR10082:SF26)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6150|UniProtKB=P06756	ITGAV	Integrin alpha-V;ITGAV;PTN002509397;orthologs	INTEGRIN ALPHA-V (PTHR23220:SF4)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=27405|UniProtKB=Q6UXI9	NPNT	Nephronectin;NPNT;PTN002513954;orthologs	NEPHRONECTIN (PTHR24050:SF19)		Homo sapiens
+HUMAN|HGNC=6140|UniProtKB=P13612	ITGA4	Integrin alpha-4;ITGA4;PTN002509412;orthologs	INTEGRIN ALPHA-4 (PTHR23220:SF78)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=23151|UniProtKB=Q86UX7	FERMT3	Fermitin family homolog 3;FERMT3;PTN002497110;orthologs	FERMITIN FAMILY HOMOLOG 3 (PTHR16160:SF1)		Homo sapiens
+HUMAN|HGNC=9718|UniProtKB=P49023	PXN	Paxillin;PXN;PTN002516907;orthologs	PAXILLIN (PTHR24216:SF11)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=3755|UniProtKB=O75369	FLNB	Filamin-B;FLNB;PTN002541119;orthologs	FILAMIN-B (PTHR38537:SF7)		Homo sapiens
+HUMAN|HGNC=2213|UniProtKB=P12111	COL6A3	Collagen alpha-3(VI) chain;COL6A3;PTN002543443;orthologs	COLLAGEN ALPHA-3(VI) CHAIN (PTHR24020:SF13)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=2218|UniProtKB=Q14055	COL9A2	Collagen alpha-2(IX) chain;COL9A2;PTN002551400;orthologs	COLLAGEN ALPHA-2(IX) CHAIN (PTHR24023:SF906)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=1736|UniProtKB=P60953	CDC42	Cell division control protein 42 homolog;CDC42;PTN002514683;orthologs	CELL DIVISION CONTROL PROTEIN 42 HOMOLOG (PTHR24072:SF136)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=6040|UniProtKB=Q13418	ILK	Integrin-linked protein kinase;ILK;PTN002546918;orthologs	INTEGRIN-LINKED PROTEIN KINASE (PTHR44329:SF57)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=1585|UniProtKB=P30281	CCND3	G1_S-specific cyclin-D3;CCND3;PTN002468714;orthologs	G1_S-SPECIFIC CYCLIN-D3 (PTHR10177:SF65)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=2198|UniProtKB=P08123	COL1A2	Collagen alpha-2(I) chain;COL1A2;PTN002513136;orthologs	COLLAGEN ALPHA-2(I) CHAIN (PTHR24023:SF568)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=3767|UniProtKB=P35916	FLT4	Vascular endothelial growth factor receptor 3;FLT4;PTN002521318;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR 3 (PTHR24416:SF49)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11845|UniProtKB=Q9Y490	TLN1	Talin-1;TLN1;PTN002500832;orthologs	TALIN-1 (PTHR19981:SF7)		Homo sapiens
+HUMAN|HGNC=3662|UniProtKB=P02675	FGB	Fibrinogen beta chain;FGB;PTN002498958;orthologs	FIBRINOGEN BETA CHAIN (PTHR19143:SF332)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2203|UniProtKB=P08572	COL4A2	Collagen alpha-2(IV) chain;COL4A2;PTN002513091;orthologs	COLLAGEN ALPHA-2(IV) CHAIN (PTHR24023:SF588)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=2932|UniProtKB=Q13316	DMP1	Dentin matrix acidic phosphoprotein 1;DMP1;PTN002511732;orthologs	DENTIN MATRIX ACIDIC PHOSPHOPROTEIN 1 (PTHR23400:SF0)		Homo sapiens
+HUMAN|HGNC=8975|UniProtKB=P42336	PIK3CA	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform;PIK3CA;PTN002467587;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT ALPHA ISOFORM (PTHR10048:SF107)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=2204|UniProtKB=Q01955	COL4A3	Collagen alpha-3(IV) chain;COL4A3;PTN000614385;orthologs	COLLAGEN ALPHA-3(IV) CHAIN (PTHR24023:SF1070)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=3778|UniProtKB=P02751	FN1	Fibronectin;FN1;PTN002498994;orthologs	FIBRONECTIN (PTHR46708:SF8)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=6484|UniProtKB=Q16363	LAMA4	Laminin subunit alpha-4;LAMA4;PTN002549656;orthologs	LAMININ SUBUNIT ALPHA-4 (PTHR15036:SF47)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=12726|UniProtKB=P04275	VWF	von Willebrand factor;VWF;PTN002478036;orthologs	VON WILLEBRAND FACTOR (PTHR11339:SF361)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=6162|UniProtKB=P26010	ITGB7	Integrin beta-7;ITGB7;PTN002467833;orthologs	INTEGRIN BETA-7 (PTHR10082:SF36)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=16084|UniProtKB=Q7Z4I7	LIMS2	LIM and senescent cell antigen-like-containing domain protein 2;LIMS2;PTN002516859;orthologs	LIM AND SENESCENT CELL ANTIGEN-LIKE-CONTAINING DOMAIN PROTEIN 2 (PTHR24210:SF10)	cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=14652|UniProtKB=Q9NVD7	PARVA	Alpha-parvin;PARVA;PTN002486222;orthologs	ALPHA-PARVIN (PTHR12114:SF6)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=3229|UniProtKB=P01133	EGF	Pro-epidermal growth factor;EGF;PTN002551467;orthologs	PRO-EPIDERMAL GROWTH FACTOR (PTHR46513:SF5)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=685|UniProtKB=Q15052	ARHGEF6	Rho guanine nucleotide exchange factor 6;ARHGEF6;PTN002504246;orthologs	RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR 6 (PTHR46026:SF2)	guanyl-nucleotide exchange factor(PC00113)	Homo sapiens
+HUMAN|HGNC=5347|UniProtKB=Q14773	ICAM4	Intercellular adhesion molecule 4;ICAM4;PTN002492633;orthologs	INTERCELLULAR ADHESION MOLECULE 4 (PTHR13771:SF8)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6146|UniProtKB=Q13349	ITGAD	Integrin alpha-D;ITGAD;PTN002509404;orthologs	INTEGRIN ALPHA-D (PTHR23220:SF132)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=8977|UniProtKB=O00329	PIK3CD	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform;PIK3CD;PTN002467582;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM (PTHR10048:SF35)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=2208|UniProtKB=Q14031	COL4A6	Collagen alpha-6(IV) chain;COL4A6;PTN002513076;orthologs	COLLAGEN ALPHA-6(IV) CHAIN (PTHR24023:SF533)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=391|UniProtKB=P31749	AKT1	RAC-alpha serine_threonine-protein kinase;AKT1;PTN002519490;orthologs	RAC-ALPHA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF171)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=19185|UniProtKB=Q86XX4	FRAS1	Extracellular matrix organizing protein FRAS1;FRAS1;PTN002484148;orthologs	EXTRACELLULAR MATRIX ORGANIZING PROTEIN FRAS1 (PTHR45739:SF1)		Homo sapiens
+HUMAN|HGNC=6161|UniProtKB=P18564	ITGB6	Integrin beta-6;ITGB6;PTN002467823;orthologs	INTEGRIN BETA-6 (PTHR10082:SF11)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=3754|UniProtKB=P21333	FLNA	Filamin-A;FLNA;PTN002541122;orthologs	FILAMIN-A (PTHR38537:SF5)		Homo sapiens
+HUMAN|HGNC=1909|UniProtKB=O15335	CHAD	Chondroadherin;CHAD;PTN002550406;orthologs	CHONDROADHERIN (PTHR24373:SF277)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6147|UniProtKB=P38570	ITGAE	Integrin alpha-E;ITGAE;PTN002509387;orthologs	INTEGRIN ALPHA-E (PTHR23220:SF79)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=14654|UniProtKB=Q9HBI0	PARVG	Gamma-parvin;PARVG;PTN002486221;orthologs	GAMMA-PARVIN (PTHR12114:SF1)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=11787|UniProtKB=P49746	THBS3	Thrombospondin-3;THBS3;PTN002468961;orthologs	THROMBOSPONDIN-3 (PTHR10199:SF89)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6143|UniProtKB=Q13683	ITGA7	Integrin alpha-7;ITGA7;PTN002509383;orthologs	INTEGRIN ALPHA-7 (PTHR23220:SF90)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=5341|UniProtKB=P21815	IBSP	Bone sialoprotein 2;IBSP;PTN002470199;orthologs	BONE SIALOPROTEIN 2 (PTHR10345:SF0)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=2200|UniProtKB=P02458	COL2A1	Collagen alpha-1(II) chain;COL2A1;PTN002513148;orthologs	COLLAGEN ALPHA-1(II) CHAIN (PTHR24023:SF58)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=393|UniProtKB=Q9Y243	AKT3	RAC-gamma serine_threonine-protein kinase;AKT3;PTN002519488;orthologs	RAC-GAMMA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF190)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=6487|UniProtKB=P55268	LAMB2	Laminin subunit beta-2;LAMB2;PTN002471680;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=6163|UniProtKB=P26012	ITGB8	Integrin beta-8;ITGB8;PTN002467834;orthologs	INTEGRIN BETA-8 (PTHR10082:SF9)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6492|UniProtKB=P11047	LAMB2,LAMC1	Laminin subunit gamma-1;LAMC1;PTN002471707;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=3661|UniProtKB=P02671	FGA	Fibrinogen alpha chain;FGA;PTN002499061;orthologs	FIBRINOGEN ALPHA CHAIN (PTHR47221:SF3)		Homo sapiens
+HUMAN|HGNC=12663|UniProtKB=P19320	VCAM1	Vascular cell adhesion protein 1;VCAM1;PTN002550794;orthologs	VASCULAR CELL ADHESION PROTEIN 1 (PTHR13771:SF14)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=166|UniProtKB=O43707	ACTN4	Alpha-actinin-4;ACTN4;PTN002539722;orthologs	ALPHA-ACTININ-4 (PTHR11915:SF425)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=3236|UniProtKB=P00533	EGFR	Epidermal growth factor receptor;EGFR;PTN002521387;orthologs	EPIDERMAL GROWTH FACTOR RECEPTOR (PTHR24416:SF91)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6137|UniProtKB=P17301	ITGA2	Integrin alpha-2;ITGA2;PTN002509390;orthologs	INTEGRIN ALPHA-2 (PTHR23220:SF23)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=144|UniProtKB=P63261	ACTG1	Actin, cytoplasmic 2;ACTG1;PTN002485076;orthologs	ACTIN, CYTOPLASMIC 2 (PTHR11937:SF575)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=8804|UniProtKB=P09619	PDGFRB	Platelet-derived growth factor receptor beta;PDGFRB;PTN002521311;orthologs	PLATELET-DERIVED GROWTH FACTOR RECEPTOR BETA (PTHR24416:SF53)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=15767|UniProtKB=Q96AC1	FERMT2	Fermitin family homolog 2;FERMT2;PTN002497114;orthologs	FERMITIN FAMILY HOMOLOG 2 (PTHR16160:SF11)		Homo sapiens
+HUMAN|HGNC=6485|UniProtKB=O15230	LAMA5	Laminin subunit alpha-5;LAMA5;PTN002471746;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=11283|UniProtKB=P12931	SRC	Proto-oncogene tyrosine-protein kinase Src;SRC;PTN002521485;orthologs	PROTO-ONCOGENE TYROSINE-PROTEIN KINASE SRC (PTHR24418:SF53)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=15447|UniProtKB=Q9Y4G6	TLN2	Talin-2;TLN2;PTN002500825;orthologs	TALIN-2 (PTHR19981:SF34)		Homo sapiens
+HUMAN|HGNC=11785|UniProtKB=P07996	THBS1	Thrombospondin-1;THBS1;PTN002468954;orthologs	THROMBOSPONDIN-1 (PTHR10199:SF78)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=25396|UniProtKB=Q5SZK8	FREM2	FRAS1-related extracellular matrix protein 2;FREM2;PTN002484150;orthologs	FRAS1-RELATED EXTRACELLULAR MATRIX PROTEIN 2 (PTHR45739:SF4)		Homo sapiens
+HUMAN|HGNC=2219|UniProtKB=Q14050	COL9A3	Collagen alpha-3(IX) chain;COL9A3;PTN002552596;orthologs	COLLAGEN ALPHA-3(IX) CHAIN (PTHR24023:SF866)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6149|UniProtKB=P11215	ITGAM	Integrin alpha-M;ITGAM;PTN002509401;orthologs	INTEGRIN ALPHA-M (PTHR23220:SF130)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=11788|UniProtKB=P35443	THBS4	Thrombospondin-4;THBS4;PTN002468957;orthologs	THROMBOSPONDIN-4 (PTHR10199:SF92)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6494|UniProtKB=Q9Y6N6	LAMC3	Laminin subunit gamma-3;LAMC3;PTN002471705;orthologs	LAMININ SUBUNIT ALPHA-5-RELATED (PTHR24035:SF127)	extracellular matrix protein(PC00102)	Homo sapiens
+HUMAN|HGNC=3603|UniProtKB=P35555	FBN1	Fibrillin-1;FBN1;PTN002513883;orthologs	FIBRILLIN-1 (PTHR24039:SF22)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=7029|UniProtKB=P08581	MET	Hepatocyte growth factor receptor;MET;PTN002521398;orthologs	HEPATOCYTE GROWTH FACTOR RECEPTOR (PTHR24416:SF483)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=26674|UniProtKB=A8TX70	COL6A5	Collagen alpha-5(VI) chain;COL6A5;PTN002543440;orthologs	COLLAGEN ALPHA-5(VI) CHAIN (PTHR22588:SF4)		Homo sapiens
+HUMAN|HGNC=3942|UniProtKB=P42345	MTOR	Serine_threonine-protein kinase mTOR;MTOR;PTN002476698;orthologs	SERINE_THREONINE-PROTEIN KINASE MTOR (PTHR11139:SF9)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=6136|UniProtKB=Q9UKX5	ITGA11	Integrin alpha-11;ITGA11;PTN002509384;orthologs	INTEGRIN ALPHA-11 (PTHR23220:SF21)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=5465|UniProtKB=P08069	IGF1R	Insulin-like growth factor 1 receptor;IGF1R;PTN002521385;orthologs	INSULIN-LIKE GROWTH FACTOR 1 RECEPTOR (PTHR24416:SF106)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2227|UniProtKB=P49747	COMP	Cartilage oligomeric matrix protein;COMP;PTN002468965;orthologs	CARTILAGE OLIGOMERIC MATRIX PROTEIN (PTHR10199:SF88)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=6158|UniProtKB=P16144	ITGB4	Integrin beta-4;ITGB4;PTN002467832;orthologs	INTEGRIN BETA-4 (PTHR10082:SF42)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=1583|UniProtKB=P30279	CCND2	G1_S-specific cyclin-D2;CCND2;PTN002468716;orthologs	G1_S-SPECIFIC CYCLIN-D2 (PTHR10177:SF66)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=23399|UniProtKB=Q5H8C1	FREM1	FRAS1-related extracellular matrix protein 1;FREM1;PTN002484145;orthologs	FRAS1-RELATED EXTRACELLULAR MATRIX PROTEIN 1 (PTHR45739:SF7)		Homo sapiens
+HUMAN|HGNC=6493|UniProtKB=Q13753	LAMC2	Laminin subunit gamma-2;LAMC2;PTN002471704;orthologs	LAMININ SUBUNIT GAMMA-2-RELATED (PTHR24033:SF232)		Homo sapiens
+HUMAN|HGNC=27023|UniProtKB=A6NMZ7	COL6A6	Collagen alpha-6(VI) chain;COL6A6;PTN002543441;orthologs	COLLAGEN ALPHA-6(VI) CHAIN (PTHR22588:SF5)		Homo sapiens
+HUMAN|HGNC=22942|UniProtKB=Q9UQP3	TNN	Tenascin-N;TNN;PTN002498983;orthologs	TENASCIN-N (PTHR19143:SF348)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=8803|UniProtKB=P16234	PDGFRA	Platelet-derived growth factor receptor alpha;PDGFRA;PTN002521308;orthologs	PLATELET-DERIVED GROWTH FACTOR RECEPTOR ALPHA (PTHR24416:SF52)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6138|UniProtKB=P08514	ITGA2B	Integrin alpha-IIb;ITGA2B;PTN002509414;orthologs	INTEGRIN ALPHA-IIB (PTHR23220:SF73)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=9611|UniProtKB=Q05397	PTK2	Focal adhesion kinase 1;PTK2;PTN002521502;orthologs	FOCAL ADHESION KINASE 1 (PTHR24418:SF78)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=6481|UniProtKB=P25391	LAMA1	Laminin subunit alpha-1;LAMA1;PTN002471755;orthologs	LAMININ SUBUNIT ALPHA-1 (PTHR15036:SF81)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1748|UniProtKB=P12830	CDH1	Cadherin-1;CDH1;PTN002513222;orthologs	CADHERIN-1 (PTHR24027:SF319)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=6152|UniProtKB=P20702	ITGAX	Integrin alpha-X;ITGAX;PTN002509403;orthologs	INTEGRIN ALPHA-X (PTHR23220:SF118)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=392|UniProtKB=P31751	AKT2	RAC-beta serine_threonine-protein kinase;AKT2;PTN002519489;orthologs	RAC-BETA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF176)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=6139|UniProtKB=P26006	ITGA3	Integrin alpha-3;ITGA3;PTN002509381;orthologs	INTEGRIN ALPHA-3 (PTHR23220:SF89)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=2212|UniProtKB=P12110	COL6A2	Collagen alpha-2(VI) chain;COL6A2;PTN002544445;orthologs	COLLAGEN ALPHA-2(VI) CHAIN (PTHR24020:SF29)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=3054|UniProtKB=Q9NZW4	DSPP	Dentin sialophosphoprotein;DSPP;PTN000789080;orthologs	DENTIN SIALOPHOSPHOPROTEIN (PTHR47819:SF1)		Homo sapiens
+HUMAN|HGNC=2217|UniProtKB=P20849	COL9A1	Collagen alpha-1(IX) chain;COL9A1;PTN002550851;orthologs	COLLAGEN ALPHA-1(IX) CHAIN (PTHR24023:SF918)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6616|UniProtKB=P48059	LIMS1	LIM and senescent cell antigen-like-containing domain protein 1;LIMS1;PTN002516862;orthologs	LIM AND SENESCENT CELL ANTIGEN-LIKE-CONTAINING DOMAIN PROTEIN 1 (PTHR24210:SF13)	cell junction protein(PC00070)	Homo sapiens
+HUMAN|HGNC=9957|UniProtKB=P78509	RELN	Reelin;RELN;PTN002483737;orthologs	REELIN (PTHR11841:SF1)	extracellular matrix glycoprotein(PC00100)	Homo sapiens
+HUMAN|HGNC=17720|UniProtKB=Q9BX95	SPP1	Sphingosine-1-phosphate phosphatase 1;SGPP1;PTN002495285;orthologs	SPHINGOSINE-1-PHOSPHATE PHOSPHATASE 1 (PTHR14969:SF45)	phosphatase(PC00181)	Homo sapiens
+HUMAN|HGNC=8800|UniProtKB=P01127	PDGFB	Platelet-derived growth factor subunit B;PDGFB;PTN002481180;orthologs	PLATELET-DERIVED GROWTH FACTOR SUBUNIT B (PTHR11633:SF2)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=8979|UniProtKB=P27986	PIK3R1	Phosphatidylinositol 3-kinase regulatory subunit alpha;PIK3R1;PTN002468389;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT ALPHA (PTHR10155:SF3)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=2197|UniProtKB=P02452	COL1A1	Collagen alpha-1(I) chain;COL1A1;;orthologs			Homo sapiens
+HUMAN|HGNC=3430|UniProtKB=P04626	ERBB2	Receptor tyrosine-protein kinase erbB-2;ERBB2;PTN002521386;orthologs	RECEPTOR TYROSINE-PROTEIN KINASE ERBB-2 (PTHR24416:SF137)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11786|UniProtKB=P35442	THBS2	Thrombospondin-2;THBS2;PTN002468953;orthologs	THROMBOSPONDIN-2 (PTHR10199:SF10)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=12680|UniProtKB=P15692	VEGFA	Vascular endothelial growth factor A, long form;VEGFA;PTN002485916;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR A, LONG FORM (PTHR12025:SF5)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=2207|UniProtKB=P29400	COL4A5	Collagen alpha-5(IV) chain;COL4A5;PTN002513096;orthologs	COLLAGEN ALPHA-5(IV) CHAIN (PTHR24023:SF1029)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6765|UniProtKB=Q13477	MADCAM1	Mucosal addressin cell adhesion molecule 1;MADCAM1;PTN002494147;orthologs	MUCOSAL ADDRESSIN CELL ADHESION MOLECULE 1 (PTHR14162:SF1)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=2202|UniProtKB=P02462	COL4A1	Collagen alpha-1(IV) chain;COL4A1;PTN002513090;orthologs	COLLAGEN ALPHA-1(IV) CHAIN (PTHR24023:SF854)	extracellular matrix structural protein(PC00103)	Homo sapiens
+HUMAN|HGNC=6144|UniProtKB=P53708	ITGA8	Integrin alpha-8;ITGA8;PTN002509415;orthologs	INTEGRIN ALPHA-8 (PTHR23220:SF5)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=8799|UniProtKB=P04085	PDGFA	Platelet-derived growth factor subunit A;PDGFA;PTN002481185;orthologs	PLATELET-DERIVED GROWTH FACTOR SUBUNIT A (PTHR11633:SF3)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=8980|UniProtKB=O00459	PIK3R2	Phosphatidylinositol 3-kinase regulatory subunit beta;PIK3R2;PTN002468388;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT BETA (PTHR10155:SF1)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=12681|UniProtKB=P49765	VEGFB	Vascular endothelial growth factor B;VEGFB;PTN002485915;orthologs	VASCULAR ENDOTHELIAL GROWTH FACTOR B (PTHR12025:SF12)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=6156|UniProtKB=P05106	ITGB3	Integrin beta-3;ITGB3;PTN002467828;orthologs	INTEGRIN BETA-3 (PTHR10082:SF25)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=5346|UniProtKB=P32942	ICAM3	Intercellular adhesion molecule 3;ICAM3;PTN002492631;orthologs	INTERCELLULAR ADHESION MOLECULE 3 (PTHR13771:SF17)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=11766|UniProtKB=P01137	TGFB1	Transforming growth factor beta-1 proprotein;TGFB1;PTN002483818;orthologs	TRANSFORMING GROWTH FACTOR BETA-1 PROPROTEIN (PTHR11848:SF125)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=14653|UniProtKB=Q9HBI1	PARVB	Beta-parvin;PARVB;PTN002486223;orthologs	BETA-PARVIN (PTHR12114:SF7)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=12724|UniProtKB=P04004	VTN	Vitronectin;VTN;PTN002505584;orthologs	VITRONECTIN (PTHR22917:SF3)		Homo sapiens
+HUMAN|HGNC=132|UniProtKB=P60709	ACTB	Actin, cytoplasmic 1;ACTB;PTN002485092;orthologs	ACTIN, CYTOPLASMIC 1 (PTHR11937:SF414)	actin and actin related protein(PC00039)	Homo sapiens

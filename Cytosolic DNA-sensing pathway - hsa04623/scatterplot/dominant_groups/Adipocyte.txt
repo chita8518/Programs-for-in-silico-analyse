@@ -1,0 +1,15 @@
+Гены с доминирующим типом клетки: Adipocyte
+============================================================
+
+POLR3C
+RIPK1
+POLR1C
+IKBKG
+POLR3D
+POLR3A
+CHUK
+POLR3B
+POLR3E
+MAVS
+POLR3F
+POLR3H

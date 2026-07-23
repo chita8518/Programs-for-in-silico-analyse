@@ -1,0 +1,37 @@
+Chemokine signaling pathway  hsa04062
+Парето-оптимальные гены для клеточного типа: Adipocyte
+SOS1
+GNAI1
+ARRB1
+RAC3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+RAF1
+GNB3
+CCL17
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CXCL2
+RAC1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+CCL11
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+CCL28
+CCL21
+PLCG2
+Парето-оптимальные гены для клеточного типа: Lymphoid
+XCL2
+CCL5
+Парето-оптимальные гены для клеточного типа: Mast cell
+PPBP
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+CCL2
+Парето-оптимальные гены для клеточного типа: Myeloid
+CCR1
+GNAQ
+ARRB2
+GRB2
+PREX1
+Парето-оптимальные гены для клеточного типа: Neural cell
+PTK2
+SRC
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1

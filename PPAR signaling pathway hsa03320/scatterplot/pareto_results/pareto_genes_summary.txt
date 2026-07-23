@@ -1,0 +1,25 @@
+PPAR signaling pathway hsa03320
+Парето-оптимальные гены для клеточного типа: Adipocyte
+PPARG
+SCD
+PCK1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+ACOX3
+CPT1B
+Парето-оптимальные гены для клеточного типа: Fibroblast
+CPT1C
+Парето-оптимальные гены для клеточного типа: Lymphoid
+DBI
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+SLC27A4
+Парето-оптимальные гены для клеточного типа: Myeloid
+PPARD
+GK
+PLTP
+Парето-оптимальные гены для клеточного типа: Neural cell
+RXRG
+SCD5
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+HMGCS2
+CD36
+SLC27A1

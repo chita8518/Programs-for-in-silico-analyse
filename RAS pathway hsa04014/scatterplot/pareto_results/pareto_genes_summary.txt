@@ -1,0 +1,47 @@
+RAS pathway hsa04014
+Парето-оптимальные гены для клеточного типа: Adipocyte
+CALML6
+SOS1
+IGF1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+EGF
+IGF1R
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CALML3
+FLT1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+NTRK1
+PDGFRA
+FGFR4
+CALML5
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+EPHA2
+GNG12
+SHC1
+PLCG2
+Парето-оптимальные гены для клеточного типа: Lymphoid
+PIK3CD
+RAC2
+Парето-оптимальные гены для клеточного типа: Mast cell
+KIT
+PAK1
+PRKCB
+PRKCA
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+NFKB1
+MET
+RRAS2
+FGFR2
+Парето-оптимальные гены для клеточного типа: Mural cell
+NGF
+PDGFRB
+Парето-оптимальные гены для клеточного типа: Myeloid
+CSF1R
+GRB2
+Парето-оптимальные гены для клеточного типа: Neural cell
+NGFR
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1
+BDNF
+NF1
+INSR

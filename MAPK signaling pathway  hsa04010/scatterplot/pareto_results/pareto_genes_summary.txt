@@ -1,0 +1,43 @@
+MAPK signaling pathway  hsa04010
+Парето-оптимальные гены для клеточного типа: Adipocyte
+SOS1
+EGFR
+NTRK2
+RET
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+RAF1
+EGF
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CDC42
+KDR
+PDGFB
+Парето-оптимальные гены для клеточного типа: Fibroblast
+NTRK1
+PDGFRA
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+FLT4
+Парето-оптимальные гены для клеточного типа: Lymphoid
+PTPN7
+Парето-оптимальные гены для клеточного типа: Mast cell
+TGFA
+KIT
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+IL1R1
+MET
+CACNG4
+Парето-оптимальные гены для клеточного типа: Mural cell
+PDGFRB
+FLNA
+NTF3
+CACNA1H
+Парето-оптимальные гены для клеточного типа: Myeloid
+ARRB2
+GRB2
+Парето-оптимальные гены для клеточного типа: Neural cell
+ERBB3
+NGFR
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+BDNF
+CACNB2
+CACNA1C

@@ -1,0 +1,28 @@
+Mitophagy hsa04137
+Парето-оптимальные гены для клеточного типа: Adipocyte
+RABGEF1
+OPTN
+USP30
+BCL2L1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MFN1
+PRKN
+GABARAPL1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+UBC
+GABARAPL2
+UBA52
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+TOMM20
+Парето-оптимальные гены для клеточного типа: Lymphoid
+RPS27A
+UBB
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+SQSTM1
+NBR1
+Парето-оптимальные гены для клеточного типа: Myeloid
+TBK1
+GABARAP
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+MTX3
+TRAF2

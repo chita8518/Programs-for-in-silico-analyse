@@ -1,0 +1,63 @@
+HUMAN|HGNC=7884|UniProtKB=Q99466	NOTCH4	Neurogenic locus notch homolog protein 4;NOTCH4;PTN002540188;orthologs	NEUROGENIC LOCUS NOTCH HOMOLOG PROTEIN 4 (PTHR24044:SF489)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6560|UniProtKB=Q8NES3	LFNG	Beta-1,3-N-acetylglucosaminyltransferase lunatic fringe;LFNG;PTN002474175;orthologs	BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE LUNATIC FRINGE (PTHR10811:SF7)	glycosyltransferase(PC00111)	Homo sapiens
+HUMAN|HGNC=7881|UniProtKB=P46531	NOTCH1	Neurogenic locus notch homolog protein 1;NOTCH1;PTN002540183;orthologs	NEUROGENIC LOCUS NOTCH HOMOLOG PROTEIN 1 (PTHR45836:SF12)		Homo sapiens
+HUMAN|HGNC=5192|UniProtKB=Q14469	HES1	Transcription factor HES-1;HES1;PTN002475357;orthologs	TRANSCRIPTION FACTOR HES-1 (PTHR10985:SF153)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=19764|UniProtKB=Q5TA89	HES5	Transcription factor HES-5;HES5;PTN002475343;orthologs	TRANSCRIPTION FACTOR HES-5 (PTHR10985:SF104)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11840|UniProtKB=Q04727	TLE4	Transducin-like enhancer protein 4;TLE4;PTN002474192;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 4 (PTHR10814:SF31)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=16259|UniProtKB=Q8IZL2	MAML2	Mastermind-like protein 2;MAML2;PTN002496405;orthologs	MASTERMIND-LIKE PROTEIN 2 (PTHR15692:SF9)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=30323|UniProtKB=Q8TDB6	DTX3L	E3 ubiquitin-protein ligase DTX3L;DTX3L;PTN002489146;orthologs	E3 UBIQUITIN-PROTEIN LIGASE DTX3L (PTHR12622:SF41)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=17575|UniProtKB=Q96T58	SPEN	Msx2-interacting protein;SPEN;PTN002509175;orthologs	MSX2-INTERACTING PROTEIN (PTHR23189:SF48)	RNA metabolism protein(PC00031)	Homo sapiens
+HUMAN|HGNC=30788|UniProtKB=Q9H808	TLE6	Transducin-like enhancer protein 6;TLE6;PTN002474201;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 6 (PTHR10814:SF2)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=33843|UniProtKB=Q7Z6K4	NRARP	Notch-regulated ankyrin repeat-containing protein;NRARP;PTN002516782;orthologs	NOTCH-REGULATED ANKYRIN REPEAT-CONTAINING PROTEIN (PTHR24203:SF75)		Homo sapiens
+HUMAN|HGNC=11838|UniProtKB=Q04725	TLE2	Transducin-like enhancer protein 2;TLE2;PTN002474204;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 2 (PTHR10814:SF4)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=3085|UniProtKB=P54792	DVL1	Putative segment polarity protein dishevelled homolog DVL1P1;DVL1P1;PTN002474680;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-1-RELATED (PTHR10878:SF5)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=8061|UniProtKB=Q9Y6R0	NUMBL	Numb-like protein;NUMBL;PTN002477410;orthologs	NUMB-LIKE PROTEIN (PTHR47368:SF4)		Homo sapiens
+HUMAN|HGNC=3086|UniProtKB=O14641	DVL2	Segment polarity protein dishevelled homolog DVL-2;DVL2;PTN002474682;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-2 (PTHR10878:SF8)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=33279|UniProtKB=P0C7T5	ATXN1L	Ataxin-1-like;ATXN1L;PTN002491538;orthologs	ATAXIN-1-LIKE (PTHR13392:SF6)		Homo sapiens
+HUMAN|HGNC=29509|UniProtKB=Q96BI3	APH1A	Gamma-secretase subunit APH-1A;APH1A;PTN002490038;orthologs	GAMMA-SECRETASE SUBUNIT APH-1A (PTHR12889:SF3)	protease(PC00190)	Homo sapiens
+HUMAN|HGNC=24080|UniProtKB=Q8WW43	APH1B	Gamma-secretase subunit APH-1B;APH1B;PTN002490039;orthologs	GAMMA-SECRETASE SUBUNIT APH-1B (PTHR12889:SF1)	protease(PC00190)	Homo sapiens
+HUMAN|HGNC=29151|UniProtKB=Q9Y2E6	DTX4	E3 ubiquitin-protein ligase DTX4;DTX4;PTN002489152;orthologs	E3 UBIQUITIN-PROTEIN LIGASE DTX4 (PTHR12622:SF5)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=8638|UniProtKB=Q92831	KAT2B	Histone acetyltransferase KAT2B;KAT2B;PTN002504934;orthologs	HISTONE ACETYLTRANSFERASE KAT2B (PTHR45750:SF2)		Homo sapiens
+HUMAN|HGNC=13890|UniProtKB=Q96J02	ITCH	E3 ubiquitin-protein ligase Itchy homolog;ITCH;PTN002477533;orthologs	E3 UBIQUITIN-PROTEIN LIGASE ITCHY HOMOLOG (PTHR11254:SF66)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=2909|UniProtKB=Q9NYJ7	DLL3	Delta-like protein 3;DLL3;PTN002513920;orthologs	DELTA-LIKE PROTEIN 3 (PTHR24044:SF308)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=4853|UniProtKB=Q92769	HDAC2	Histone deacetylase 2;HDAC2;PTN002472113;orthologs	HISTONE DEACETYLASE 2 (PTHR10625:SF3)		Homo sapiens
+HUMAN|HGNC=2494|UniProtKB=Q13363	CTBP1	C-terminal-binding protein 1;CTBP1;PTN002475529;orthologs	C-TERMINAL-BINDING PROTEIN 1 (PTHR46029:SF2)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=11837|UniProtKB=Q04724	TLE1	Transducin-like enhancer protein 1;TLE1;PTN002474209;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 1 (PTHR10814:SF29)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=4852|UniProtKB=Q13547	HDAC1	Histone deacetylase 1;HDAC1;PTN002472122;orthologs	HISTONE DEACETYLASE 1 (PTHR10625:SF49)		Homo sapiens
+HUMAN|HGNC=4881|UniProtKB=Q9UBP5	HEY2	Hairy_enhancer-of-split related with YRPW motif protein 2;HEY2;PTN002475362;orthologs	HAIRY_ENHANCER-OF-SPLIT RELATED WITH YRPW MOTIF PROTEIN 2 (PTHR10985:SF88)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11839|UniProtKB=Q04726	TLE3	Transducin-like enhancer protein 3;TLE3;PTN002474195;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 3 (PTHR10814:SF24)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=2495|UniProtKB=P56545	CTBP2	C-terminal-binding protein 2;CTBP2;PTN002475528;orthologs	C-TERMINAL-BINDING PROTEIN 2 (PTHR46029:SF3)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=9508|UniProtKB=P49768	PSEN1	Presenilin-1;PSEN1;PTN002469028;orthologs	PRESENILIN-1 (PTHR10202:SF18)	aspartic protease(PC00053)	Homo sapiens
+HUMAN|HGNC=6189|UniProtKB=Q9Y219	JAG2	Protein jagged-2;JAG2;PTN002543357;orthologs	PROTEIN JAGGED-2 (PTHR24044:SF421)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=7673|UniProtKB=Q9Y618	NCOR2	Nuclear receptor corepressor 2;NCOR2;PTN002493558;orthologs	NUCLEAR RECEPTOR COREPRESSOR 2 (PTHR13992:SF21)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=4882|UniProtKB=Q9NQ87	HEYL	Hairy_enhancer-of-split related with YRPW motif-like protein;HEYL;PTN002475367;orthologs	HAIRY_ENHANCER-OF-SPLIT RELATED WITH YRPW MOTIF-LIKE PROTEIN (PTHR10985:SF79)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=16272|UniProtKB=Q96JK9	MAML3	Mastermind-like protein 3;MAML3;PTN002496407;orthologs	MASTERMIND-LIKE PROTEIN 3 (PTHR15692:SF8)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=4880|UniProtKB=Q9Y5J3	HEY1	Hairy_enhancer-of-split related with YRPW motif protein 1;HEY1;PTN002475368;orthologs	HAIRY_ENHANCER-OF-SPLIT RELATED WITH YRPW MOTIF PROTEIN 1 (PTHR10985:SF78)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=195|UniProtKB=P78536	ADAM17	Disintegrin and metalloproteinase domain-containing protein 17;ADAM17;PTN002484289;orthologs	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 17 (PTHR45702:SF6)	protease(PC00190)	Homo sapiens
+HUMAN|HGNC=30100|UniProtKB=Q9NZ42	PSENEN	Gamma-secretase subunit PEN-2;PSENEN;PTN002497387;orthologs	GAMMA-SECRETASE SUBUNIT PEN-2 (PTHR16318:SF0)		Homo sapiens
+HUMAN|HGNC=13761|UniProtKB=Q9UBG7	RBPJL	Recombining binding protein suppressor of hairless-like protein;RBPJL;PTN002472628;orthologs	RECOMBINING BINDING PROTEIN SUPPRESSOR OF HAIRLESS-LIKE PROTEIN (PTHR10665:SF2)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=6188|UniProtKB=P78504	JAG1	Protein jagged-1;JAG1;PTN002543358;orthologs	PROTEIN JAGGED-1 (PTHR24044:SF448)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=7883|UniProtKB=Q9UM47	NOTCH3	Neurogenic locus notch homolog protein 3;NOTCH3;PTN002540191;orthologs	NEUROGENIC LOCUS NOTCH HOMOLOG PROTEIN 3 (PTHR45836:SF17)		Homo sapiens
+HUMAN|HGNC=7038|UniProtKB=O00587	MFNG	Beta-1,3-N-acetylglucosaminyltransferase manic fringe;MFNG;PTN002474174;orthologs	BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE MANIC FRINGE (PTHR10811:SF6)	glycosyltransferase(PC00111)	Homo sapiens
+HUMAN|HGNC=3084|UniProtKB=O14640	DVL1	Segment polarity protein dishevelled homolog DVL-1;DVL1;PTN002474681;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-1-RELATED (PTHR10878:SF5)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=4201|UniProtKB=Q92830	KAT2A	Histone acetyltransferase KAT2A;KAT2A;PTN002504935;orthologs	HISTONE ACETYLTRANSFERASE KAT2A (PTHR45750:SF1)		Homo sapiens
+HUMAN|HGNC=2908|UniProtKB=O00548	DLL1	Delta-like protein 1;DLL1;PTN002513927;orthologs	DELTA-LIKE PROTEIN 1 (PTHR24044:SF380)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=15973|UniProtKB=Q86UW9	DTX2	Probable E3 ubiquitin-protein ligase DTX2;DTX2;PTN002489150;orthologs	E3 UBIQUITIN-PROTEIN LIGASE DTX2-RELATED (PTHR12622:SF21)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=9509|UniProtKB=P49810	PSEN2	Presenilin-2;PSEN2;PTN002469027;orthologs	PRESENILIN-2 (PTHR10202:SF24)	aspartic protease(PC00053)	Homo sapiens
+HUMAN|HGNC=9974|UniProtKB=Q9Y644	RFNG	Beta-1,3-N-acetylglucosaminyltransferase radical fringe;RFNG;PTN002474173;orthologs	BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE RADICAL FRINGE (PTHR10811:SF1)	glycosyltransferase(PC00111)	Homo sapiens
+HUMAN|HGNC=21290|UniProtKB=Q6ISU1	PTCRA	Pre T-cell antigen receptor alpha;PTCRA;PTN002532993;orthologs	PRE T-CELL ANTIGEN RECEPTOR ALPHA (PTHR37866:SF1)	immunoglobulin receptor superfamily(PC00124)	Homo sapiens
+HUMAN|HGNC=3373|UniProtKB=Q09472	EP300	Histone acetyltransferase p300;EP300;PTN002492803;orthologs	HISTONE ACETYLTRANSFERASE P300 (PTHR13808:SF29)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=3087|UniProtKB=Q92997	DVL3	Segment polarity protein dishevelled homolog DVL-3;DVL3;PTN002474683;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-3 (PTHR10878:SF6)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=2348|UniProtKB=Q92793	CREBBP	CREB-binding protein;CREBBP;PTN002492802;orthologs	CREB-BINDING PROTEIN (PTHR13808:SF34)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=10548|UniProtKB=P54253	ATXN1	Ataxin-1;ATXN1;PTN002491539;orthologs	ATAXIN-1 (PTHR13392:SF5)		Homo sapiens
+HUMAN|HGNC=53648|UniProtKB=A0A1W2PR48	TLE7	Transducin-like enhancer protein 7;TLE7;PTN004200624;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 7 (PTHR10814:SF33)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=5724|UniProtKB=Q06330	RBPJ	Recombining binding protein suppressor of hairless;RBPJ;PTN002472629;orthologs	RECOMBINING BINDING PROTEIN SUPPRESSOR OF HAIRLESS (PTHR10665:SF7)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=17091|UniProtKB=Q92542	NCSTN	Nicastrin;NCSTN;PTN002501334;orthologs	NICASTRIN (PTHR21092:SF0)		Homo sapiens
+HUMAN|HGNC=25925|UniProtKB=Q96K30	RITA1	RBPJ-interacting and tubulin-associated protein 1;RITA1;PTN002532057;orthologs	RBPJ-INTERACTING AND TUBULIN-ASSOCIATED PROTEIN 1 (PTHR34917:SF1)		Homo sapiens
+HUMAN|HGNC=2910|UniProtKB=Q9NR61	DLL4	Delta-like protein 4;DLL4;PTN002513918;orthologs	DELTA-LIKE PROTEIN 4 (PTHR24044:SF320)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=24457|UniProtKB=Q8N9I9	DTX3	Probable E3 ubiquitin-protein ligase DTX3;DTX3;PTN002489145;orthologs	E3 UBIQUITIN-PROTEIN LIGASE DTX3-RELATED (PTHR12622:SF35)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=8060|UniProtKB=P49757	NUMB	Protein numb homolog;NUMB;PTN002477411;orthologs	PROTEIN NUMB HOMOLOG (PTHR47368:SF5)		Homo sapiens
+HUMAN|HGNC=13632|UniProtKB=Q92585	MAML1	Mastermind-like protein 1;MAML1;PTN002496403;orthologs	MASTERMIND-LIKE PROTEIN 1 (PTHR15692:SF19)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=16696|UniProtKB=Q13573	SNW1	SNW domain-containing protein 1;SNW1;PTN002486154;orthologs	SNW DOMAIN-CONTAINING PROTEIN 1 (PTHR12096:SF0)	RNA splicing factor(PC00148)	Homo sapiens
+HUMAN|HGNC=3060|UniProtKB=Q86Y01	DTX1	E3 ubiquitin-protein ligase DTX1;DTX1;PTN002489151;orthologs	E3 UBIQUITIN-PROTEIN LIGASE DTX1 (PTHR12622:SF7)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=7882|UniProtKB=Q04721	NOTCH2	Neurogenic locus notch homolog protein 2;NOTCH2;PTN002540181;orthologs	NEUROGENIC LOCUS NOTCH HOMOLOG PROTEIN 2 (PTHR45836:SF15)		Homo sapiens

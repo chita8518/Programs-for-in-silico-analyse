@@ -1,0 +1,107 @@
+HUMAN|HGNC=6142|UniProtKB=P23229	ITGA6	Integrin alpha-6;ITGA6;PTN002509377;orthologs	INTEGRIN ALPHA-6 (PTHR23220:SF9)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=12012|UniProtKB=P06753	TPM3	Tropomyosin alpha-3 chain;TPM3;PTN002499329;orthologs	TROPOMYOSIN ALPHA-3 CHAIN (PTHR19269:SF38)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=6636|UniProtKB=P02545	LMNA	Prelamin-A_C;LMNA;PTN002509616;orthologs	PRELAMIN-A_C (PTHR45721:SF5)		Homo sapiens
+HUMAN|HGNC=11070|UniProtKB=P57103	SLC8A3	Sodium_calcium exchanger 3;SLC8A3;PTN002484155;orthologs	SODIUM_CALCIUM EXCHANGER 3 (PTHR11878:SF7)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=11068|UniProtKB=P32418	SLC8A1	Sodium_calcium exchanger 1;SLC8A1;PTN002484157;orthologs	SODIUM_CALCIUM EXCHANGER 1 (PTHR11878:SF6)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=7577|UniProtKB=P12883	MYH7	Myosin-7;MYH7;PTN002490854;orthologs	MYOSIN-7 (PTHR45615:SF1)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=1391|UniProtKB=Q01668	CACNA1D	Voltage-dependent L-type calcium channel subunit alpha-1D;CACNA1D;PTN002467479;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1D (PTHR45628:SF11)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=14075|UniProtKB=Q96LD1	SGCZ	Zeta-sarcoglycan;SGCZ;PTN002490184;orthologs	ZETA-SARCOGLYCAN (PTHR12939:SF5)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=11167|UniProtKB=Q13424	SNTA1	Alpha-1-syntrophin;SNTA1;PTN002471509;orthologs	ALPHA-1-SYNTROPHIN (PTHR10554:SF6)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=12011|UniProtKB=P07951	TPM2	Tropomyosin beta chain;TPM2;PTN002499326;orthologs	TROPOMYOSIN BETA CHAIN (PTHR19269:SF46)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=2928|UniProtKB=P11532	DMD	Dystrophin;DMD;PTN002546503;orthologs	DYSTROPHIN (PTHR12268:SF25)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=1402|UniProtKB=Q08289	CACNB2	Voltage-dependent L-type calcium channel subunit beta-2;CACNB2;PTN002483534;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT BETA-2 (PTHR11824:SF9)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=333|UniProtKB=P01019	AGT	Angiotensinogen;AGT;PTN002479194;orthologs	ANGIOTENSINOGEN (PTHR11461:SF13)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=7584|UniProtKB=P08590	MYL3	Myosin light chain 3;MYL3;PTN002507228;orthologs	MYOSIN LIGHT CHAIN 3 (PTHR23048:SF2)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=233|UniProtKB=Q08462	ADCY2	Adenylate cyclase type 2;ADCY2;PTN002484530;orthologs	ADENYLATE CYCLASE TYPE 2 (PTHR45627:SF6)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=1529|UniProtKB=P56539	CAV3	Caveolin-3;CAV3;PTN002474392;orthologs	CAVEOLIN-3 (PTHR10844:SF16)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=6135|UniProtKB=O75578	ITGA10	Integrin alpha-10;ITGA10;PTN002509410;orthologs	INTEGRIN ALPHA-10 (PTHR23220:SF26)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=9393|UniProtKB=P17252	PRKACA	Protein kinase C alpha type;PRKCA;PTN002519431;orthologs	PROTEIN KINASE C ALPHA TYPE (PTHR24356:SF193)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=20202|UniProtKB=Q7Z3S7	CACNA2D4	Voltage-dependent calcium channel subunit alpha-2_delta-4;CACNA2D4;PTN002468550;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2_DELTA-4 (PTHR10166:SF59)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=10808|UniProtKB=O43556	SGCE	Epsilon-sarcoglycan;SGCE;PTN002468308;orthologs	EPSILON-SARCOGLYCAN (PTHR10132:SF17)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=11892|UniProtKB=P01375	TNF	Tumor necrosis factor;TNF;PTN002479303;orthologs	TUMOR NECROSIS FACTOR (PTHR11471:SF23)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6482|UniProtKB=P24043	LAMA2	Laminin subunit alpha-2;LAMA2;PTN002471752;orthologs	LAMININ SUBUNIT ALPHA-2 (PTHR15036:SF65)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=4392|UniProtKB=Q5JWF2	GNAS	Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas;GNAS;PTN002469287;orthologs	GUANINE NUCLEOTIDE-BINDING PROTEIN G(S) SUBUNIT ALPHA ISOFORMS XLAS (PTHR10218:SF348)	heterotrimeric G-protein(PC00117)	Homo sapiens
+HUMAN|HGNC=6145|UniProtKB=Q13797	ITGA9	Integrin alpha-9;ITGA9;PTN002509392;orthologs	INTEGRIN ALPHA-9 (PTHR23220:SF69)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=2770|UniProtKB=P17661	DES	Desmin;DES;PTN002509750;orthologs	DESMIN (PTHR45652:SF2)	intermediate filament(PC00129)	Homo sapiens
+HUMAN|HGNC=13625|UniProtKB=Q9BXT2	CACNG6	Voltage-dependent calcium channel gamma-6 subunit;CACNG6;PTN002495369;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-6 SUBUNIT (PTHR15025:SF6)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=6134|UniProtKB=P56199	ITGA1	Integrin alpha-1;ITGA1;PTN002509395;orthologs	INTEGRIN ALPHA-1 (PTHR23220:SF22)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=11768|UniProtKB=P61812	TGFB2	Transforming growth factor beta-2 proprotein;TGFB2;PTN002483821;orthologs	TRANSFORMING GROWTH FACTOR BETA-2 PROPROTEIN (PTHR11848:SF141)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=9381|UniProtKB=P22694	PRKACB	cAMP-dependent protein kinase catalytic subunit beta;PRKACB;PTN002519370;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT BETA (PTHR24353:SF150)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=1393|UniProtKB=O60840	CACNA1F	Voltage-dependent L-type calcium channel subunit alpha-1F;CACNA1F;PTN002467475;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1F (PTHR45628:SF2)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=5464|UniProtKB=P05019	IGF1	Insulin-like growth factor I;IGF1;PTN002479134;orthologs	INSULIN-LIKE GROWTH FACTOR I (PTHR46845:SF1)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=6153|UniProtKB=P05556	ITGB1	Integrin beta-1;ITGB1;PTN002467835;orthologs	INTEGRIN BETA-1 (PTHR10082:SF28)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=239|UniProtKB=P40145	ADCY8	Adenylate cyclase type 8;ADCY8;PTN002484507;orthologs	ADENYLATE CYCLASE TYPE 8 (PTHR45627:SF1)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=1403|UniProtKB=P54284	CACNB3	Voltage-dependent L-type calcium channel subunit beta-3;CACNB3;PTN002483533;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT BETA-3 (PTHR11824:SF8)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=143|UniProtKB=P68032	ACTC1	Actin, alpha cardiac muscle 1;ACTC1;PTN002485041;orthologs	ACTIN, ALPHA CARDIAC MUSCLE 1 (PTHR11937:SF176)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=6141|UniProtKB=P08648	ITGA5	Integrin alpha-5;ITGA5;PTN002509409;orthologs	INTEGRIN ALPHA-5 (PTHR23220:SF3)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=236|UniProtKB=O95622	ADCY5	Adenylate cyclase type 5;ADCY5;PTN002484515;orthologs	ADENYLATE CYCLASE TYPE 5 (PTHR45627:SF7)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=6160|UniProtKB=P18084	ITGB5	Integrin beta-5;ITGB5;PTN002467826;orthologs	INTEGRIN BETA-5 (PTHR10082:SF26)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6150|UniProtKB=P06756	ITGAV	Integrin alpha-V;ITGAV;PTN002509397;orthologs	INTEGRIN ALPHA-V (PTHR23220:SF4)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6140|UniProtKB=P13612	ITGA4	Integrin alpha-4;ITGA4;PTN002509412;orthologs	INTEGRIN ALPHA-4 (PTHR23220:SF78)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=10806|UniProtKB=Q16585	SGCB	Beta-sarcoglycan;SGCB;PTN002501456;orthologs	BETA-SARCOGLYCAN (PTHR21142:SF2)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=238|UniProtKB=P51828	ADCY7	Adenylate cyclase type 7;ADCY7;PTN002484526;orthologs	ADENYLATE CYCLASE TYPE 7 (PTHR45627:SF9)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=12403|UniProtKB=Q8WZ42	TTN	Titin;TTN;PTN002492888;orthologs	TITIN (PTHR13817:SF151)	structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=11943|UniProtKB=P63316	TNNC1	Troponin C, slow skeletal and cardiac muscles;TNNC1;PTN002507513;orthologs	TROPONIN C, SLOW SKELETAL AND CARDIAC MUSCLES (PTHR23064:SF47)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=10484|UniProtKB=Q92736	RYR2	Ryanodine receptor 2;RYR2;PTN002492397;orthologs	RYANODINE RECEPTOR 2 (PTHR46399:SF7)		Homo sapiens
+HUMAN|HGNC=3057|UniProtKB=Q9Y4J8	DTNA	Dystrobrevin alpha;DTNA;PTN002542822;orthologs	DYSTROBREVIN ALPHA (PTHR12268:SF19)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=1397|UniProtKB=Q13698	CACNA1S	Voltage-dependent L-type calcium channel subunit alpha-1S;CACNA1S;PTN002467473;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1S (PTHR45628:SF9)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=237|UniProtKB=O43306	ADCY6	Adenylate cyclase type 6;ADCY6;PTN002484510;orthologs	ADENYLATE CYCLASE TYPE 6 (PTHR45627:SF11)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=23044|UniProtKB=Q8WY41	NOS1	Nanos homolog 1;NANOS1;PTN002490032;orthologs	NANOS HOMOLOG 1 (PTHR12887:SF11)	RNA metabolism protein(PC00031)	Homo sapiens
+HUMAN|HGNC=6162|UniProtKB=P26010	ITGB7	Integrin beta-7;ITGB7;PTN002467833;orthologs	INTEGRIN BETA-7 (PTHR10082:SF36)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=1405|UniProtKB=Q06432	CACNG1	Voltage-dependent calcium channel gamma-1 subunit;CACNG1;PTN002495368;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-1 SUBUNIT (PTHR15025:SF1)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=11947|UniProtKB=P19429	TNNC1,TNNI3	Troponin I, cardiac muscle;TNNI3;PTN002492535;orthologs	TROPONIN I, CARDIAC MUSCLE (PTHR13738:SF2)	non-motor actin binding protein(PC00165)	Homo sapiens
+HUMAN|HGNC=1400|UniProtKB=Q9NY47	CACNA2D2	Voltage-dependent calcium channel subunit alpha-2_delta-2;CACNA2D2;PTN002468548;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2_DELTA-2 (PTHR10166:SF7)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=1409|UniProtKB=Q9UF02	CACNG5	Voltage-dependent calcium channel gamma-5 subunit;CACNG5;PTN002486188;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-5 SUBUNIT (PTHR12107:SF4)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=12013|UniProtKB=P67936	TPM4	Tropomyosin alpha-4 chain;TPM4;PTN002499328;orthologs	TROPOMYOSIN ALPHA-4 CHAIN (PTHR19269:SF70)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=235|UniProtKB=Q8NFM4	ADCY4	Adenylate cyclase type 4;ADCY4;PTN002484529;orthologs	ADENYLATE CYCLASE TYPE 4 (PTHR45627:SF10)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=6161|UniProtKB=P18564	ITGB6	Integrin beta-6;ITGB6;PTN002467823;orthologs	INTEGRIN BETA-6 (PTHR10082:SF11)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6143|UniProtKB=Q13683	ITGA7	Integrin alpha-7;ITGA7;PTN002509383;orthologs	INTEGRIN ALPHA-7 (PTHR23220:SF90)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6163|UniProtKB=P26012	ITGB8	Integrin beta-8;ITGB8;PTN002467834;orthologs	INTEGRIN BETA-8 (PTHR10082:SF9)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=13628|UniProtKB=Q8WXS5	CACNG6,CACNG8	Voltage-dependent calcium channel gamma-8 subunit;CACNG8;PTN002486184;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-8 SUBUNIT (PTHR12107:SF2)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=7583|UniProtKB=P10916	MYL2	Myosin regulatory light chain 2, ventricular_cardiac muscle isoform;MYL2;PTN002507236;orthologs	MYOSIN REGULATORY LIGHT CHAIN 2, VENTRICULAR_CARDIAC MUSCLE ISOFORM (PTHR23049:SF9)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=1404|UniProtKB=O00305	CACNB4	Voltage-dependent L-type calcium channel subunit beta-4;CACNB4;PTN002483532;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT BETA-4 (PTHR11824:SF7)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=234|UniProtKB=O60266	ADCY3	Adenylate cyclase type 3;ADCY3;PTN002484496;orthologs	ADENYLATE CYCLASE TYPE 3 (PTHR45627:SF30)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=10807|UniProtKB=Q92629	SGCD	Delta-sarcoglycan;SGCD;PTN002490185;orthologs	DELTA-SARCOGLYCAN (PTHR12939:SF6)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=9080|UniProtKB=P26678	PLN	Cardiac phospholamban;PLN;PTN002501522;orthologs	CARDIAC PHOSPHOLAMBAN (PTHR21194:SF1)		Homo sapiens
+HUMAN|HGNC=6137|UniProtKB=P17301	ITGA2	Integrin alpha-2;ITGA2;PTN002509390;orthologs	INTEGRIN ALPHA-2 (PTHR23220:SF23)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=11322|UniProtKB=Q14714	SSPN	Sarcospan;SSPN;PTN002495740;orthologs	SARCOSPAN (PTHR15260:SF1)		Homo sapiens
+HUMAN|HGNC=9382|UniProtKB=P22612	PRKACG	cAMP-dependent protein kinase catalytic subunit gamma;PRKACG;PTN002519371;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT GAMMA (PTHR24353:SF137)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=12010|UniProtKB=P09493	TPM1	Tropomyosin alpha-1 chain;TPM1;PTN002499316;orthologs	TROPOMYOSIN ALPHA-1 CHAIN (PTHR19269:SF41)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=144|UniProtKB=P63261	ACTG1	Actin, cytoplasmic 2;ACTG1;PTN002485076;orthologs	ACTIN, CYTOPLASMIC 2 (PTHR11937:SF575)	actin and actin related protein(PC00039)	Homo sapiens
+HUMAN|HGNC=9380|UniProtKB=P17612	PRKACA	cAMP-dependent protein kinase catalytic subunit alpha;PRKACA;PTN002519372;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT ALPHA (PTHR24353:SF82)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=11168|UniProtKB=Q13884	SNTB1	Beta-1-syntrophin;SNTB1;PTN002471513;orthologs	BETA-1-SYNTROPHIN (PTHR10554:SF11)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=341|UniProtKB=P21549	AGT	Alanine--glyoxylate aminotransferase;AGXT;PTN002501496;orthologs	ALANINE--GLYOXYLATE AMINOTRANSFERASE (PTHR21152:SF40)	transaminase(PC00216)	Homo sapiens
+HUMAN|HGNC=6136|UniProtKB=Q9UKX5	ITGA11	Integrin alpha-11;ITGA11;PTN002509384;orthologs	INTEGRIN ALPHA-11 (PTHR23220:SF21)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6158|UniProtKB=P16144	ITGB4	Integrin beta-4;ITGB4;PTN002467832;orthologs	INTEGRIN BETA-4 (PTHR10082:SF42)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=11949|UniProtKB=P45379	TNNT2	Troponin T, cardiac muscle;TNNT2;PTN002479676;orthologs	TROPONIN T, CARDIAC MUSCLE (PTHR11521:SF5)	actin binding motor protein(PC00040)	Homo sapiens
+HUMAN|HGNC=11769|UniProtKB=P10600	TGFB3	Transforming growth factor beta-3 proprotein;TGFB3;PTN002483820;orthologs	TRANSFORMING GROWTH FACTOR BETA-3 PROPROTEIN (PTHR11848:SF34)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=11169|UniProtKB=Q13425	SNTB2	Beta-2-syntrophin;SNTB2;PTN002471511;orthologs	BETA-2-SYNTROPHIN (PTHR10554:SF8)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=6138|UniProtKB=P08514	ITGA2B	Integrin alpha-IIb;ITGA2B;PTN002509414;orthologs	INTEGRIN ALPHA-IIB (PTHR23220:SF73)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=1390|UniProtKB=Q13936	CACNA1C	Voltage-dependent L-type calcium channel subunit alpha-1C;CACNA1C;PTN002467478;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT ALPHA-1C (PTHR45628:SF10)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=6481|UniProtKB=P25391	LAMA1	Laminin subunit alpha-1;LAMA1;PTN002471755;orthologs	LAMININ SUBUNIT ALPHA-1 (PTHR15036:SF81)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=1399|UniProtKB=P54289	CACNA2D1	Voltage-dependent calcium channel subunit alpha-2_delta-1;CACNA2D1;PTN002468547;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2_DELTA-1 (PTHR10166:SF6)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=812|UniProtKB=P16615	ATP2A2	Sarcoplasmic_endoplasmic reticulum calcium ATPase 2;ATP2A2;PTN002533885;orthologs	SARCOPLASMIC_ENDOPLASMIC RETICULUM CALCIUM ATPASE 2 (PTHR42861:SF18)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=15460|UniProtKB=Q8IZS8	CACNA2D3	Voltage-dependent calcium channel subunit alpha-2_delta-3;CACNA2D3;PTN002468549;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL SUBUNIT ALPHA-2_DELTA-3 (PTHR10166:SF25)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=6139|UniProtKB=P26006	ITGA3	Integrin alpha-3;ITGA3;PTN002509381;orthologs	INTEGRIN ALPHA-3 (PTHR23220:SF89)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=1408|UniProtKB=Q9UBN1	CACNG4	Voltage-dependent calcium channel gamma-4 subunit;CACNG4;PTN002486185;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-4 SUBUNIT (PTHR12107:SF7)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=285|UniProtKB=P08588	ADRB1	Beta-1 adrenergic receptor;ADRB1;PTN002517628;orthologs	BETA-1 ADRENERGIC RECEPTOR (PTHR24248:SF54)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=7872|UniProtKB=P29475	NOS1	Nitric oxide synthase 1;NOS1;PTN002500253;orthologs	NITRIC OXIDE SYNTHASE 1 (PTHR19384:SF63)	oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=1401|UniProtKB=Q02641	CACNB1	Voltage-dependent L-type calcium channel subunit beta-1;CACNB1;PTN002483530;orthologs	VOLTAGE-DEPENDENT L-TYPE CALCIUM CHANNEL SUBUNIT BETA-1 (PTHR11824:SF17)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=813|UniProtKB=Q93084	ATP2A3	Sarcoplasmic_endoplasmic reticulum calcium ATPase 3;ATP2A3;PTN002533888;orthologs	SARCOPLASMIC_ENDOPLASMIC RETICULUM CALCIUM ATPASE 3 (PTHR42861:SF6)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=3331|UniProtKB=P50402	EMD	Emerin;EMD;PTN002495606;orthologs	EMERIN (PTHR15171:SF2)		Homo sapiens
+HUMAN|HGNC=10805|UniProtKB=Q16586	SGCA	Alpha-sarcoglycan;SGCA;PTN002468309;orthologs	ALPHA-SARCOGLYCAN (PTHR10132:SF16)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=2666|UniProtKB=Q14118	DAG1	Dystroglycan 1;DAG1;PTN002502358;orthologs	DYSTROGLYCAN 1 (PTHR21559:SF22)	cell adhesion molecule(PC00069)	Homo sapiens
+HUMAN|HGNC=240|UniProtKB=O60503	ADCY9	Adenylate cyclase type 9;ADCY9;PTN002484518;orthologs	ADENYLATE CYCLASE TYPE 9 (PTHR45627:SF8)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=1406|UniProtKB=Q9Y698	CACNG2	Voltage-dependent calcium channel gamma-2 subunit;CACNG2;PTN002486181;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-2 SUBUNIT (PTHR12107:SF1)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=232|UniProtKB=Q08828	ADCY1	Adenylate cyclase type 1;ADCY1;PTN002484502;orthologs	ADENYLATE CYCLASE TYPE 1 (PTHR45627:SF26)	adenylate cyclase(PC00043)	Homo sapiens
+HUMAN|HGNC=7576|UniProtKB=P13533	MYH6	Myosin-6;MYH6;PTN002490827;orthologs	MYOSIN-6 (PTHR45615:SF69)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=6144|UniProtKB=P53708	ITGA8	Integrin alpha-8;ITGA8;PTN002509415;orthologs	INTEGRIN ALPHA-8 (PTHR23220:SF5)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=6156|UniProtKB=P05106	ITGB3	Integrin beta-3;ITGB3;PTN002467828;orthologs	INTEGRIN BETA-3 (PTHR10082:SF25)	integrin(PC00126)	Homo sapiens
+HUMAN|HGNC=811|UniProtKB=O14983	ATP2A1	Sarcoplasmic_endoplasmic reticulum calcium ATPase 1;ATP2A1;PTN002533889;orthologs	SARCOPLASMIC_ENDOPLASMIC RETICULUM CALCIUM ATPASE 1 (PTHR42861:SF24)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=13626|UniProtKB=P62955	CACNG7	Voltage-dependent calcium channel gamma-7 subunit;CACNG7;PTN002486186;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-7 SUBUNIT (PTHR12107:SF12)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=11069|UniProtKB=Q9UPR5	SLC8A2	Sodium_calcium exchanger 2;SLC8A2;PTN002484156;orthologs	SODIUM_CALCIUM EXCHANGER 2 (PTHR11878:SF8)	secondary carrier transporter(PC00258)	Homo sapiens
+HUMAN|HGNC=1407|UniProtKB=O60359	CACNG3	Voltage-dependent calcium channel gamma-3 subunit;CACNG3;PTN002486183;orthologs	VOLTAGE-DEPENDENT CALCIUM CHANNEL GAMMA-3 SUBUNIT (PTHR12107:SF5)	voltage-gated ion channel(PC00241)	Homo sapiens
+HUMAN|HGNC=10809|UniProtKB=Q13326	SGCG	Gamma-sarcoglycan;SGCG;PTN002490183;orthologs	GAMMA-SARCOGLYCAN (PTHR12939:SF4)	cytoskeletal protein(PC00085)	Homo sapiens
+HUMAN|HGNC=11766|UniProtKB=P01137	TGFB1	Transforming growth factor beta-1 proprotein;TGFB1;PTN002483818;orthologs	TRANSFORMING GROWTH FACTOR BETA-1 PROPROTEIN (PTHR11848:SF125)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=7551|UniProtKB=Q14896	MYBPC3	Myosin-binding protein C, cardiac-type;MYBPC3;PTN002492871;orthologs	MYOSIN-BINDING PROTEIN C, CARDIAC-TYPE (PTHR13817:SF20)	structural protein(PC00211)	Homo sapiens
+HUMAN|HGNC=132|UniProtKB=P60709	ACTB	Actin, cytoplasmic 1;ACTB;PTN002485092;orthologs	ACTIN, CYTOPLASMIC 1 (PTHR11937:SF414)	actin and actin related protein(PC00039)	Homo sapiens

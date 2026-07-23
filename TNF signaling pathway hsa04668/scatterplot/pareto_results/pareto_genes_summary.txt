@@ -1,0 +1,22 @@
+TNF signaling pathway hsa04668
+Парето-оптимальные гены для клеточного типа: Adipocyte
+MAPK14
+TRAF3
+MAP2K6
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MAPK8
+MAP2K4
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CASP8
+TNF
+CCL5
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+BIRC3
+Парето-оптимальные гены для клеточного типа: Myeloid
+TAB2
+TAB3
+BIRC2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+TRAF2
+TAB1

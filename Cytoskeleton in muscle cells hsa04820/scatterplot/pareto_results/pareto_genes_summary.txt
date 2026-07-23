@@ -1,0 +1,33 @@
+Cytoskeleton in muscle cells hsa04820
+Парето-оптимальные гены для клеточного типа: Adipocyte
+ITGB5
+TNNC2
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MYH6
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+ACTB
+ITGB1
+ACTG1
+MYH9
+Парето-оптимальные гены для клеточного типа: Lymphoid
+ITGB7
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+MYH10
+LAMA1
+Парето-оптимальные гены для клеточного типа: Mural cell
+ACTG2
+MYH11
+Парето-оптимальные гены для клеточного типа: Myeloid
+CAPZB
+CAPZA1
+TPM3
+THBS1
+Парето-оптимальные гены для клеточного типа: Neural cell
+DAG1
+SGCB
+ITGB8
+ITGB4
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+DMD
+MYBPC3
+MYH7

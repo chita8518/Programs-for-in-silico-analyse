@@ -1,0 +1,12 @@
+Гены с доминирующим типом клетки: Atrial Cardiomyocyte
+============================================================
+
+RAF1
+CACNA1D
+EGF
+MAPK9
+TRAF6
+MAPK8
+MAPK8IP3
+MAP2K4
+ERBB2

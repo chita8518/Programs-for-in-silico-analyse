@@ -1,0 +1,26 @@
+N-linked glycosylation pathway - N-glycan biosynthesis hsa00510
+Парето-оптимальные гены для клеточного типа: Adipocyte
+MAN1A2
+STT3B
+MAN1A1
+DPM1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+DPM3
+KRTCAP2
+DAD1
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+MGAT4D
+MGAT4B
+Парето-оптимальные гены для клеточного типа: Lymphoid
+B4GALT3
+OST4
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+B4GALT1
+TMEM258
+Парето-оптимальные гены для клеточного типа: Myeloid
+MGAT4A
+RPN1
+MAGT1
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+MAN1C1
+TUSC3

@@ -1,0 +1,16 @@
+Гены с доминирующим типом клетки: Endothelial cell
+============================================================
+
+CDC42
+ITGA10
+ITGA6
+RHOA
+KDR
+ITGA1
+ACTB
+RAC1
+HRAS
+ITGB1
+MAPK3
+ACTG1
+LAMA5

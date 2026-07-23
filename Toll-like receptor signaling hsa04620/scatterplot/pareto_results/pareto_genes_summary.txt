@@ -1,0 +1,20 @@
+Toll-like receptor signaling hsa04620
+Парето-оптимальные гены для клеточного типа: Adipocyte
+TRAF3
+MAP2K6
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+TRAF6
+MAPK8
+MAP2K4
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+IRF7
+Парето-оптимальные гены для клеточного типа: Lymphoid
+TNF
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+TICAM1
+IRF3
+Парето-оптимальные гены для клеточного типа: Myeloid
+TLR2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+TAB1

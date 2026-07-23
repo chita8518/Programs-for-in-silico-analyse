@@ -1,0 +1,170 @@
+HUMAN|HGNC=9445|UniProtKB=P01236	PRL	Prolactin;PRL;PTN002478817;orthologs	PROLACTIN (PTHR11417:SF5)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=18364|UniProtKB=Q8IZJ0	IFNL2	Interferon lambda-2;IFNL2;PTN002528317;orthologs	INTERFERON LAMBDA-2-RELATED (PTHR31943:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=11363|UniProtKB=P52630	STAT2	Signal transducer and activator of transcription 2;STAT2;PTN002483234;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 2 (PTHR11801:SF41)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=8506|UniProtKB=P13725	OSM	Oncostatin-M;OSM;PTN002494451;orthologs	ONCOSTATIN-M (PTHR14261:SF0)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=8976|UniProtKB=P42338	PIK3CB	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform;PIK3CB;PTN002467581;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT BETA ISOFORM (PTHR10048:SF33)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=5417|UniProtKB=P01562	IFNA13,IFNA1	Interferon alpha-1_13;IFNA13;PTN002481935;orthologs	INTERFERON ALPHA-1_13 (PTHR11691:SF64)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=6024|UniProtKB=P16871	IL7R	Interleukin-7 receptor subunit alpha;IL7R;PTN002507130;orthologs	INTERLEUKIN-7 RECEPTOR SUBUNIT ALPHA (PTHR23037:SF27)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5975|UniProtKB=Q14627	IL13RA2	Interleukin-13 receptor subunit alpha-2;IL13RA2;PTN002507115;orthologs	INTERLEUKIN-13 RECEPTOR SUBUNIT ALPHA-2 (PTHR23036:SF101)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5420|UniProtKB=P01570	IFNA14	Interferon alpha-14;IFNA14;PTN002481949;orthologs	INTERFERON ALPHA-14 (PTHR11691:SF67)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=6012|UniProtKB=P26951	IL3RA	Interleukin-3 receptor subunit alpha;IL3RA;PTN002507104;orthologs	INTERLEUKIN-3 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF179)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=8632|UniProtKB=P40424	PRL	Pre-B-cell leukemia transcription factor 1;PBX1;PTN002483910;orthologs	PRE-B-CELL LEUKEMIA TRANSCRIPTION FACTOR 1 (PTHR11850:SF89)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=14281|UniProtKB=Q9HC73	CRLF2	Cytokine receptor-like factor 2;CRLF2;PTN002507110;orthologs	CYTOKINE RECEPTOR-LIKE FACTOR 2 (PTHR23036:SF163)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6017|UniProtKB=Q01344	IL5RA	Interleukin-5 receptor subunit alpha;IL5RA;PTN002507108;orthologs	INTERLEUKIN-5 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF17)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=19100|UniProtKB=Q5VWK5	IL23R	Interleukin-23 receptor;IL23R;PTN002507080;orthologs	INTERLEUKIN-23 RECEPTOR (PTHR23036:SF112)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1784|UniProtKB=P38936	CDKN1A	Cyclin-dependent kinase inhibitor 1;CDKN1A;PTN002469533;orthologs	CYCLIN-DEPENDENT KINASE INHIBITOR 1 (PTHR46778:SF1)	kinase inhibitor(PC00139)	Homo sapiens
+HUMAN|HGNC=5971|UniProtKB=P42701	IL12RB1	Interleukin-12 receptor subunit beta-1;IL12RB1;PTN002507081;orthologs	INTERLEUKIN-12 RECEPTOR SUBUNIT BETA-1 (PTHR23036:SF51)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=8981|UniProtKB=Q92569	PIK3R3	Phosphatidylinositol 3-kinase regulatory subunit gamma;PIK3R3;PTN002468393;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT GAMMA (PTHR10155:SF2)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=6018|UniProtKB=P05231	IL6	Interleukin-6;IL6;PTN002554292;orthologs	INTERLEUKIN-6 (PTHR48494:SF1)		Homo sapiens
+HUMAN|HGNC=6003|UniProtKB=Q9UHF4	IL20RA	Interleukin-20 receptor subunit alpha;IL20RA;PTN002500979;orthologs	INTERLEUKIN-20 RECEPTOR SUBUNIT ALPHA (PTHR20859:SF86)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11367|UniProtKB=P51692	STAT5B	Signal transducer and activator of transcription 5B;STAT5B;PTN002483243;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5B (PTHR11801:SF39)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=6131|UniProtKB=Q00978	IRF9	Interferon regulatory factor 9;IRF9;PTN002485279;orthologs	INTERFERON REGULATORY FACTOR 9 (PTHR11949:SF26)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=11364|UniProtKB=P40763	STAT3	Signal transducer and activator of transcription 3;STAT3;PTN002483239;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3 (PTHR11801:SF2)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=6014|UniProtKB=P05112	IL4	Interleukin-4;IL4;PTN000156013;orthologs	INTERLEUKIN-4 (PTHR47401:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=18365|UniProtKB=Q8IZI9	IFNL3	Interferon lambda-3;IFNL3;PTN002528319;orthologs	INTERFERON LAMBDA-2-RELATED (PTHR31943:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=2442|UniProtKB=Q14406	CSHL1	Chorionic somatomammotropin hormone-like 1;CSHL1;PTN002478812;orthologs	CHORIONIC SOMATOMAMMOTROPIN HORMONE 1-RELATED (PTHR11417:SF67)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=3415|UniProtKB=P01588	EPO	Erythropoietin;EPO;PTN002470432;orthologs	ERYTHROPOIETIN (PTHR10370:SF0)		Homo sapiens
+HUMAN|HGNC=11795|UniProtKB=P40225	THPO	Thrombopoietin;THPO;PTN002471592;orthologs	THROMBOPOIETIN (PTHR10560:SF0)		Homo sapiens
+HUMAN|HGNC=5421|UniProtKB=P05015	IFNA16	Interferon alpha-16;IFNA16;PTN002481951;orthologs	INTERFERON ALPHA-16 (PTHR11691:SF71)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=5438|UniProtKB=P01579	IFNG	Interferon gamma;IFNG;PTN002478823;orthologs	INTERFERON GAMMA (PTHR11419:SF0)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=6029|UniProtKB=P15248	IL9	Interleukin-9;IL9;PTN002497695;orthologs	INTERLEUKIN-9 (PTHR16926:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=6943|UniProtKB=Q07820	MCL1	Induced myeloid leukemia cell differentiation protein Mcl-1;MCL1;PTN002477645;orthologs	INDUCED MYELOID LEUKEMIA CELL DIFFERENTIATION PROTEIN MCL-1 (PTHR11256:SF46)		Homo sapiens
+HUMAN|HGNC=14900|UniProtKB=Q9GZX6	IL22	Interleukin-22;IL22;PTN009232704;orthologs	INTERLEUKIN-22 (PTHR48488:SF1)		Homo sapiens
+HUMAN|HGNC=5965|UniProtKB=Q08334	IL10RB	Interleukin-10 receptor subunit beta;IL10RB;PTN002500969;orthologs	INTERLEUKIN-10 RECEPTOR SUBUNIT BETA (PTHR20859:SF50)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5974|UniProtKB=P78552	IL13RA1	Interleukin-13 receptor subunit alpha-1;IL13RA1;PTN002507114;orthologs	INTERLEUKIN-13 RECEPTOR SUBUNIT ALPHA-1 (PTHR23036:SF89)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5970|UniProtKB=P29460	IL12B	Interleukin-12 subunit beta;IL12B;PTN002553257;orthologs	INTERLEUKIN-12 SUBUNIT BETA (PTHR48485:SF4)		Homo sapiens
+HUMAN|HGNC=6192|UniProtKB=O60674	JAK2	Tyrosine-protein kinase JAK2;JAK2;PTN002521572;orthologs	TYROSINE-PROTEIN KINASE JAK2 (PTHR45807:SF1)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=1582|UniProtKB=P24385	CCND1	G1_S-specific cyclin-D1;CCND1;PTN002468715;orthologs	G1_S-SPECIFIC CYCLIN-D1 (PTHR10177:SF67)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=2440|UniProtKB=P0DML2	CSH1	Chorionic somatomammotropin hormone 1;CSH1;PTN002261641;orthologs	CHORIONIC SOMATOMAMMOTROPIN HORMONE 1-RELATED (PTHR11417:SF67)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=15488|UniProtKB=Q9NPF7	IL23A	Interleukin-23 subunit alpha;IL23A;PTN002496783;orthologs	INTERLEUKIN-23 SUBUNIT ALPHA (PTHR15947:SF0)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=11366|UniProtKB=P42229	STAT5A	Signal transducer and activator of transcription 5A;STAT5A;PTN002483241;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 5A (PTHR11801:SF47)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=12440|UniProtKB=P29597	TYK2	Non-receptor tyrosine-protein kinase TYK2;TYK2;PTN002521567;orthologs	NON-RECEPTOR TYROSINE-PROTEIN KINASE TYK2 (PTHR45807:SF6)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=5433|UniProtKB=P48551	IFNAR2	Interferon alpha_beta receptor 2;IFNAR2;PTN002500974;orthologs	INTERFERON ALPHA_BETA RECEPTOR 2 (PTHR20859:SF84)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=30743|UniProtKB=Q969D9	TSLP	Thymic stromal lymphopoietin;TSLP;PTN002533040;orthologs	THYMIC STROMAL LYMPHOPOIETIN (PTHR38003:SF1)		Homo sapiens
+HUMAN|HGNC=19392|UniProtKB=Q8WXH5	SOCS7,SOCS4	Suppressor of cytokine signaling 4;SOCS4;PTN002545999;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 4 (PTHR10155:SF21)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=5972|UniProtKB=Q99665	IL12RB2	Interleukin-12 receptor subunit beta-2;IL12RB2;PTN002507098;orthologs	INTERLEUKIN-12 RECEPTOR SUBUNIT BETA-2 (PTHR23036:SF79)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2435|UniProtKB=P15509	CSF2RA	Granulocyte-macrophage colony-stimulating factor receptor subunit alpha;CSF2RA;PTN002507105;orthologs	GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR RECEPTOR SUBUNIT ALPHA (PTHR23036:SF190)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=16852|UniProtKB=O75159	SOCS5	Suppressor of cytokine signaling 5;SOCS5;PTN002546000;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 5 (PTHR10155:SF15)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=5418|UniProtKB=P01566	IFNA10	Interferon alpha-10;IFNA10;PTN002481945;orthologs	INTERFERON ALPHA-10-RELATED (PTHR11691:SF66)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=4262|UniProtKB=P01242	GH2	Growth hormone variant;GH2;PTN002478815;orthologs	GROWTH HORMONE VARIANT (PTHR11417:SF40)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=2441|UniProtKB=P0DML3	CSH2	Chorionic somatomammotropin hormone 2;CSH2;PTN002261640;orthologs	CHORIONIC SOMATOMAMMOTROPIN HORMONE 1-RELATED (PTHR11417:SF67)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=18163|UniProtKB=Q86WN2	IFNE	Interferon epsilon;IFNE;PTN002481927;orthologs	INTERFERON EPSILON (PTHR11691:SF8)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=1585|UniProtKB=P30281	CCND3	G1_S-specific cyclin-D3;CCND3;PTN002468714;orthologs	G1_S-SPECIFIC CYCLIN-D3 (PTHR10177:SF65)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=9829|UniProtKB=P04049	RAF1	RAF proto-oncogene serine_threonine-protein kinase;RAF1;PTN002541138;orthologs	RAF PROTO-ONCOGENE SERINE_THREONINE-PROTEIN KINASE (PTHR44329:SF22)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=18969|UniProtKB=Q8NI17	IL31RA	Interleukin-31 receptor subunit alpha;IL31RA;PTN002507099;orthologs	INTERLEUKIN-31 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF96)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5439|UniProtKB=P15260	IFNGR1	Interferon gamma receptor 1;IFNGR1;PTN002500975;orthologs	INTERFERON GAMMA RECEPTOR 1 (PTHR20859:SF5)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5969|UniProtKB=P29459	IL12A	Interleukin-12 subunit alpha;IL12A;PTN009232584;orthologs	INTERLEUKIN-12 SUBUNIT ALPHA (PTHR48485:SF1)		Homo sapiens
+HUMAN|HGNC=6596|UniProtKB=P15018	LIF	Leukemia inhibitory factor;LIF;PTN002472180;orthologs	LEUKEMIA INHIBITORY FACTOR (PTHR10633:SF0)	cytokine(PC00083)	Homo sapiens
+HUMAN|HGNC=8975|UniProtKB=P42336	PIK3CA	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform;PIK3CA;PTN002467587;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT ALPHA ISOFORM (PTHR10048:SF107)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=17412|UniProtKB=Q9UBD9	CLCF1	Cardiotrophin-like cytokine factor 1;CLCF1;PTN002501903;orthologs	CARDIOTROPHIN-LIKE CYTOKINE FACTOR 1 (PTHR21353:SF7)		Homo sapiens
+HUMAN|HGNC=5448|UniProtKB=P05000	IFNW1	Interferon omega-1;IFNW1;PTN002481961;orthologs	INTERFERON OMEGA-1 (PTHR11691:SF37)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=2169|UniProtKB=P26441	CNTF	Ciliary neurotrophic factor;CNTF;PTN002495643;orthologs	CILIARY NEUROTROPHIC FACTOR (PTHR15196:SF0)		Homo sapiens
+HUMAN|HGNC=19391|UniProtKB=O14543	SOCS3	Suppressor of cytokine signaling 3;SOCS3;PTN002549627;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 3 (PTHR10155:SF11)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=3416|UniProtKB=P19235	EPOR	Erythropoietin receptor;EPOR;PTN002507127;orthologs	ERYTHROPOIETIN RECEPTOR (PTHR23037:SF28)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5424|UniProtKB=P01568	IFNA21	Interferon alpha-21;IFNA21;PTN002481943;orthologs	INTERFERON ALPHA-21 (PTHR11691:SF57)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=5429|UniProtKB=P32881	IFNA8	Interferon alpha-8;IFNA8;PTN002481950;orthologs	INTERFERON ALPHA-8 (PTHR11691:SF28)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=21714|UniProtKB=Q9P0W0	IFNK	Interferon kappa;IFNK;PTN002481933;orthologs	INTERFERON KAPPA (PTHR11691:SF6)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=6016|UniProtKB=P05113	IL5	Interleukin-5;IL5;PTN009232772;orthologs	INTERLEUKIN-5 (PTHR48491:SF1)		Homo sapiens
+HUMAN|HGNC=2170|UniProtKB=P26992	CNTFR	Ciliary neurotrophic factor receptor subunit alpha;CNTFR;PTN002507095;orthologs	CILIARY NEUROTROPHIC FACTOR RECEPTOR SUBUNIT ALPHA (PTHR23036:SF21)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6553|UniProtKB=P41159	LEP	Leptin;LEP;PTN002482402;orthologs	LEPTIN (PTHR11724:SF1)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=6005|UniProtKB=Q9HBE4	IL21	Interleukin-21;IL21;PTN002494563;orthologs	INTERLEUKIN-21 (PTHR14356:SF2)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=992|UniProtKB=Q07817	BCL2L1	Bcl-2-like protein 1;BCL2L1;PTN002477650;orthologs	BCL-2-LIKE PROTEIN 1 (PTHR11256:SF12)		Homo sapiens
+HUMAN|HGNC=5425|UniProtKB=P05014	IFNA4	Interferon alpha-4;IFNA4;PTN002481946;orthologs	INTERFERON ALPHA-10-RELATED (PTHR11691:SF66)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=3229|UniProtKB=P01133	EGF	Pro-epidermal growth factor;EGF;PTN002551467;orthologs	PRO-EPIDERMAL GROWTH FACTOR (PTHR46513:SF5)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2752|UniProtKB=O75925	PIAS1	E3 SUMO-protein ligase PIAS1;PIAS1;PTN002473596;orthologs	E3 SUMO-PROTEIN LIGASE PIAS1 (PTHR10782:SF11)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=5982|UniProtKB=Q9UHF5	IL20	Interleukin-17B;IL17B;;orthologs			Homo sapiens
+HUMAN|HGNC=8977|UniProtKB=O00329	PIK3CD	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform;PIK3CD;PTN002467582;orthologs	PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT DELTA ISOFORM (PTHR10048:SF35)	kinase(PC00137)	Homo sapiens
+HUMAN|HGNC=391|UniProtKB=P31749	AKT1	RAC-alpha serine_threonine-protein kinase;AKT1;PTN002519490;orthologs	RAC-ALPHA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF171)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=9644|UniProtKB=Q06124	PTPN11	Tyrosine-protein phosphatase non-receptor type 11;PTPN11;PTN002498842;orthologs	TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 11 (PTHR46559:SF1)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=19382|UniProtKB=O14508	SOCS2	Suppressor of cytokine signaling 2;SOCS2;PTN002547669;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 2 (PTHR10155:SF7)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=11346|UniProtKB=Q13007	IL24	Interleukin-24;IL24;PTN009232429;orthologs	INTERLEUKIN-24 (PTHR48482:SF4)		Homo sapiens
+HUMAN|HGNC=11357|UniProtKB=Q92783	STAM	Signal transducing adapter molecule 1;STAM;PTN002493160;orthologs	SIGNAL TRANSDUCING ADAPTER MOLECULE 1 (PTHR45929:SF2)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=5427|UniProtKB=P05013	IFNA6	Interferon alpha-6;IFNA6;PTN002481939;orthologs	INTERFERON ALPHA-6 (PTHR11691:SF27)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=393|UniProtKB=Q9Y243	AKT3	RAC-gamma serine_threonine-protein kinase;AKT3;PTN002519488;orthologs	RAC-GAMMA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF190)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=2499|UniProtKB=Q16619	CTF1	Cardiotrophin-1;CTF1;PTN002501900;orthologs	CARDIOTROPHIN-1 (PTHR21353:SF2)		Homo sapiens
+HUMAN|HGNC=19383|UniProtKB=O15524	SOCS1	Suppressor of cytokine signaling 1;SOCS1;PTN002550507;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 1 (PTHR10155:SF4)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=16833|UniProtKB=O14544	SOCS6,SOCS4	Suppressor of cytokine signaling 6;SOCS6;PTN002549866;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 6 (PTHR10155:SF28)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=11362|UniProtKB=P42224	STAT1	Signal transducer and activator of transcription 1-alpha_beta;STAT1;PTN002483235;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 1-ALPHA_BETA (PTHR11801:SF18)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=6002|UniProtKB=Q9NYY1	IL20	Interleukin-20;IL20;PTN009232403;orthologs	INTERLEUKIN-20 (PTHR48482:SF2)		Homo sapiens
+HUMAN|HGNC=5966|UniProtKB=P20809	IL11	Interleukin-11;IL11;PTN002497694;orthologs	INTERLEUKIN-11 (PTHR16922:SF0)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=5423|UniProtKB=P01563	IFNA2	Interferon alpha-2;IFNA2;PTN002481941;orthologs	INTERFERON ALPHA-2 (PTHR11691:SF70)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=5973|UniProtKB=P35225	IL13	Interleukin-13;IL13;PTN009232650;orthologs	INTERLEUKIN-13 (PTHR48486:SF1)		Homo sapiens
+HUMAN|HGNC=8507|UniProtKB=Q99650	OSMR	Oncostatin-M-specific receptor subunit beta;OSMR;PTN002507074;orthologs	ONCOSTATIN-M-SPECIFIC RECEPTOR SUBUNIT BETA (PTHR23036:SF95)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5426|UniProtKB=P01569	IFNA5	Interferon alpha-5;IFNA5;PTN002481940;orthologs	INTERFERON ALPHA-5 (PTHR11691:SF60)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=5422|UniProtKB=P01571	IFNA17	Interferon alpha-17;IFNA17;PTN002481948;orthologs	INTERFERON ALPHA-10-RELATED (PTHR11691:SF66)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=3236|UniProtKB=P00533	EGFR	Epidermal growth factor receptor;EGFR;PTN002521387;orthologs	EPIDERMAL GROWTH FACTOR RECEPTOR (PTHR24416:SF91)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4235|UniProtKB=P14136	GFAP	Glial fibrillary acidic protein;GFAP;PTN002509746;orthologs	GLIAL FIBRILLARY ACIDIC PROTEIN (PTHR45652:SF9)	intermediate filament(PC00129)	Homo sapiens
+HUMAN|HGNC=17290|UniProtKB=Q6UWB1	IL27RA	Interleukin-27 receptor subunit alpha;IL27RA;PTN002507119;orthologs	INTERLEUKIN-27 RECEPTOR SUBUNIT ALPHA (PTHR48423:SF1)		Homo sapiens
+HUMAN|HGNC=8804|UniProtKB=P09619	PDGFRB	Platelet-derived growth factor receptor beta;PDGFRB;PTN002521311;orthologs	PLATELET-DERIVED GROWTH FACTOR RECEPTOR BETA (PTHR24416:SF53)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=8986|UniProtKB=P11309	PIM1	Serine_threonine-protein kinase pim-1;PIM1;PTN002506641;orthologs	SERINE_THREONINE-PROTEIN KINASE PIM-1 (PTHR22984:SF29)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=5428|UniProtKB=P01567	IFNA7	Interferon alpha-7;IFNA7;PTN002481947;orthologs	INTERFERON ALPHA-7 (PTHR11691:SF69)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=9650|UniProtKB=P17706	PTPN2	Tyrosine-protein phosphatase non-receptor type 2;PTPN2;PTN002498758;orthologs	TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 2 (PTHR46047:SF1)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=6190|UniProtKB=P23458	JAK1	Tyrosine-protein kinase JAK1;JAK1;PTN002521577;orthologs	TYROSINE-PROTEIN KINASE JAK1 (PTHR45807:SF5)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=6597|UniProtKB=P42702	LIFR	Leukemia inhibitory factor receptor;LIFR;PTN002507075;orthologs	LEUKEMIA INHIBITORY FACTOR RECEPTOR (PTHR23036:SF105)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6008|UniProtKB=P01589	IL2RA	Interleukin-2 receptor subunit alpha;IL2RA;PTN002471660;orthologs	INTERLEUKIN-2 RECEPTOR SUBUNIT ALPHA (PTHR10573:SF0)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=7217|UniProtKB=P40238	MPL	Thrombopoietin receptor;MPL;PTN002507124;orthologs	THROMBOPOIETIN RECEPTOR (PTHR23037:SF31)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=553|UniProtKB=Q06278	AOX1	Aldehyde oxidase;AOX1;PTN002484359;orthologs	ALDEHYDE OXIDASE (PTHR11908:SF86)	oxidoreductase(PC00176)	Homo sapiens
+HUMAN|HGNC=3423|UniProtKB=P11678	EPO	Eosinophil peroxidase;EPX;PTN002479384;orthologs	EOSINOPHIL PEROXIDASE (PTHR11475:SF63)	peroxidase(PC00180)	Homo sapiens
+HUMAN|HGNC=18584|UniProtKB=Q8IU57	IFNLR1	Interferon lambda receptor 1;IFNLR1;PTN002500976;orthologs	INTERFERON LAMBDA RECEPTOR 1 (PTHR20859:SF55)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5967|UniProtKB=Q14626	IL11RA	Interleukin-11 receptor subunit alpha;IL11RA;PTN002507085;orthologs	INTERLEUKIN-11 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF29)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=3942|UniProtKB=P42345	MTOR	Serine_threonine-protein kinase mTOR;MTOR;PTN002476698;orthologs	SERINE_THREONINE-PROTEIN KINASE MTOR (PTHR11139:SF9)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=11358|UniProtKB=O75886	STAM2	Signal transducing adapter molecule 2;STAM2;PTN002493161;orthologs	HEMATOPOIETIC LINEAGE CELL-SPECIFIC PROTEIN-RELATED (PTHR45929:SF1)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=11188|UniProtKB=Q07890	SOS2	Son of sevenless homolog 2;SOS2;PTN002508290;orthologs	SON OF SEVENLESS HOMOLOG 2 (PTHR23113:SF150)	guanyl-nucleotide exchange factor(PC00113)	Homo sapiens
+HUMAN|HGNC=5964|UniProtKB=Q13651	IL10RA	Interleukin-10 receptor subunit alpha;IL10RA;PTN002500973;orthologs	INTERLEUKIN-10 RECEPTOR SUBUNIT ALPHA (PTHR20859:SF90)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5978|UniProtKB=Q13261	IL15RA	Interleukin-15 receptor subunit alpha;IL15RA;PTN002495422;orthologs	INTERLEUKIN-15 RECEPTOR SUBUNIT ALPHA (PTHR15060:SF0)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5440|UniProtKB=P38484	IFNGR2	Interferon gamma receptor 2;IFNGR2;PTN002500970;orthologs	INTERFERON GAMMA RECEPTOR 2 (PTHR20859:SF46)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1583|UniProtKB=P30279	CCND2	G1_S-specific cyclin-D2;CCND2;PTN002468716;orthologs	G1_S-SPECIFIC CYCLIN-D2 (PTHR10177:SF66)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=8803|UniProtKB=P16234	PDGFRA	Platelet-derived growth factor receptor alpha;PDGFRA;PTN002521308;orthologs	PLATELET-DERIVED GROWTH FACTOR RECEPTOR ALPHA (PTHR24416:SF52)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5434|UniProtKB=P01574	IFNB1	Interferon beta;IFNB1;PTN002481928;orthologs	INTERFERON BETA (PTHR11691:SF73)	interferon superfamily(PC00127)	Homo sapiens
+HUMAN|HGNC=3373|UniProtKB=Q09472	EP300	Histone acetyltransferase p300;EP300;PTN002492803;orthologs	HISTONE ACETYLTRANSFERASE P300 (PTHR13808:SF29)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=6001|UniProtKB=P60568	IL2	Interleukin-2;IL2;PTN009232676;orthologs	INTERLEUKIN-2 (PTHR48487:SF1)		Homo sapiens
+HUMAN|HGNC=6030|UniProtKB=Q01113	IL9R	Interleukin-9 receptor;IL9R;PTN002507136;orthologs	INTERLEUKIN-9 RECEPTOR (PTHR23037:SF29)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2439|UniProtKB=Q99062	CSF3R	Granulocyte colony-stimulating factor receptor;CSF3R;PTN002507088;orthologs	GRANULOCYTE COLONY-STIMULATING FACTOR RECEPTOR (PTHR23036:SF103)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9446|UniProtKB=P16471	PRLR	Prolactin receptor;PRLR;PTN002507071;orthologs	PROLACTIN RECEPTOR (PTHR23036:SF86)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=19372|UniProtKB=Q6EBC2	IL31	Interleukin-31;IL31;PTN002533130;orthologs	INTERLEUKIN-31 (PTHR38652:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=17119|UniProtKB=Q9NPH9	IL26	Interleukin-26;IL26;PTN009232491;orthologs	INTERLEUKIN-26 (PTHR48482:SF1)		Homo sapiens
+HUMAN|HGNC=2348|UniProtKB=Q92793	CREBBP	CREB-binding protein;CREBBP;PTN002492802;orthologs	CREB-BINDING PROTEIN (PTHR13808:SF34)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=6021|UniProtKB=P40189	IL6ST	Interleukin-6 receptor subunit beta;IL6ST;PTN002507102;orthologs	INTERLEUKIN-6 RECEPTOR SUBUNIT BETA (PTHR23036:SF83)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=392|UniProtKB=P31751	AKT2	RAC-beta serine_threonine-protein kinase;AKT2;PTN002519489;orthologs	RAC-BETA SERINE_THREONINE-PROTEIN KINASE (PTHR24356:SF176)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=4566|UniProtKB=P62993	GRB2	Growth factor receptor-bound protein 2;GRB2;PTN002521467;orthologs	GROWTH FACTOR RECEPTOR-BOUND PROTEIN 2 (PTHR46037:SF4)		Homo sapiens
+HUMAN|HGNC=18363|UniProtKB=Q8IU54	IFNL1	Interferon lambda-1;IFNL1;PTN002528318;orthologs	INTERFERON LAMBDA-1 (PTHR31943:SF14)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=5432|UniProtKB=P17181	IFNAR1	Interferon alpha_beta receptor 1;IFNAR1;PTN002500972;orthologs	INTERFERON ALPHA_BETA RECEPTOR 1 (PTHR20859:SF54)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=5990|UniProtKB=Q9UHD0	IL19	Interleukin-19;IL19;PTN009232450;orthologs	INTERLEUKIN-19 (PTHR48482:SF3)		Homo sapiens
+HUMAN|HGNC=6193|UniProtKB=P52333	JAK3	Tyrosine-protein kinase JAK3;JAK3;PTN002521571;orthologs	TYROSINE-PROTEIN KINASE JAK3 (PTHR45807:SF3)	non-receptor tyrosine protein kinase(PC00168)	Homo sapiens
+HUMAN|HGNC=17311|UniProtKB=O75928	PIAS2	E3 SUMO-protein ligase PIAS2;PIAS2;PTN002473593;orthologs	E3 SUMO-PROTEIN LIGASE PIAS2 (PTHR10782:SF12)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=6009|UniProtKB=P14784	IL2RB	Interleukin-2 receptor subunit beta;IL2RB;PTN002507137;orthologs	INTERLEUKIN-2 RECEPTOR SUBUNIT BETA (PTHR23037:SF30)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=14901|UniProtKB=Q969J5	IL22RA2	Interleukin-22 receptor subunit alpha-2;IL22RA2;PTN002500980;orthologs	INTERLEUKIN-22 RECEPTOR SUBUNIT ALPHA-2 (PTHR20859:SF51)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=8800|UniProtKB=P01127	PDGFB	Platelet-derived growth factor subunit B;PDGFB;PTN002481180;orthologs	PLATELET-DERIVED GROWTH FACTOR SUBUNIT B (PTHR11633:SF2)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=9658|UniProtKB=P29350	PTPN6	Tyrosine-protein phosphatase non-receptor type 6;PTPN6;PTN002498840;orthologs	TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 6 (PTHR46257:SF4)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=8979|UniProtKB=P27986	PIK3R1	Phosphatidylinositol 3-kinase regulatory subunit alpha;PIK3R1;PTN002468389;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT ALPHA (PTHR10155:SF3)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=6006|UniProtKB=Q9HBE5	IL21R	Interleukin-21 receptor;IL21R;PTN002507138;orthologs	INTERLEUKIN-21 RECEPTOR (PTHR23037:SF7)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6011|UniProtKB=P08700	IL3	Interleukin-3;IL3;PTN009232735;orthologs	INTERLEUKIN-3 (PTHR48489:SF1)		Homo sapiens
+HUMAN|HGNC=2434|UniProtKB=P04141	CSF2	Granulocyte-macrophage colony-stimulating factor;CSF2;PTN002467633;orthologs	GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR (PTHR10059:SF0)	cytokine(PC00083)	Homo sapiens
+HUMAN|HGNC=5962|UniProtKB=P22301	IL10	Interleukin-10;IL10;PTN009232513;orthologs	INTERLEUKIN-10 (PTHR48482:SF5)		Homo sapiens
+HUMAN|HGNC=29477|UniProtKB=O15243	LEPR	Leptin receptor gene-related protein;LEPROT;PTN002486035;orthologs	LEPTIN RECEPTOR GENE-RELATED PROTEIN (PTHR12050:SF3)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=19157|UniProtKB=Q8NEV9	IL27	Interleukin-27 subunit alpha;IL27;PTN002500996;orthologs	INTERLEUKIN-27 SUBUNIT ALPHA (PTHR20879:SF1)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=2436|UniProtKB=P32927	CSF2RB	Cytokine receptor common subunit beta;CSF2RB;PTN002507134;orthologs	CYTOKINE RECEPTOR COMMON SUBUNIT BETA (PTHR23037:SF22)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2438|UniProtKB=P09919	CSF3	Granulocyte colony-stimulating factor;CSF3;PTN002471210;orthologs	GRANULOCYTE COLONY-STIMULATING FACTOR (PTHR10511:SF2)		Homo sapiens
+HUMAN|HGNC=6015|UniProtKB=P24394	IL4R	Interleukin-4 receptor subunit alpha;IL4R;PTN002507126;orthologs	INTERLEUKIN-4 RECEPTOR SUBUNIT ALPHA (PTHR23037:SF32)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4263|UniProtKB=P10912	GHR	Growth hormone receptor;GHR;PTN002507078;orthologs	GROWTH HORMONE RECEPTOR (PTHR23036:SF108)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=1984|UniProtKB=Q9NSE2	CISH	Cytokine-inducible SH2-containing protein;CISH;PTN002550844;orthologs	CYTOKINE-INDUCIBLE SH2-CONTAINING PROTEIN (PTHR10155:SF9)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=8799|UniProtKB=P04085	PDGFA	Platelet-derived growth factor subunit A;PDGFA;PTN002481185;orthologs	PLATELET-DERIVED GROWTH FACTOR SUBUNIT A (PTHR11633:SF3)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=8980|UniProtKB=O00459	PIK3R2	Phosphatidylinositol 3-kinase regulatory subunit beta;PIK3R2;PTN002468388;orthologs	PHOSPHATIDYLINOSITOL 3-KINASE REGULATORY SUBUNIT BETA (PTHR10155:SF1)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=5173|UniProtKB=P01112	HRAS	GTPase HRas;HRAS;PTN002514531;orthologs	GTPASE HRAS (PTHR24070:SF385)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=5977|UniProtKB=P40933	IL15	Interleukin-15;IL15;PTN002554305;orthologs	INTERLEUKIN-15 (PTHR14356:SF3)	interleukin superfamily(PC00128)	Homo sapiens
+HUMAN|HGNC=990|UniProtKB=P10415	BCL2	Apoptosis regulator Bcl-2;BCL2;PTN002477646;orthologs	APOPTOSIS REGULATOR BCL-2 (PTHR11256:SF11)		Homo sapiens
+HUMAN|HGNC=7553|UniProtKB=P01106	MYC	Myc proto-oncogene protein;MYC;PTN002479626;orthologs	MYC PROTO-ONCOGENE PROTEIN (PTHR45851:SF1)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=13700|UniProtKB=Q8N6P7	IL22RA1	Interleukin-22 receptor subunit alpha-1;IL22RA1;PTN002500977;orthologs	INTERLEUKIN-22 RECEPTOR SUBUNIT ALPHA-1 (PTHR20859:SF53)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=16861|UniProtKB=Q9Y6X2	PIAS3	E3 SUMO-protein ligase PIAS3;PIAS3;PTN002473595;orthologs	E3 SUMO-PROTEIN LIGASE PIAS3 (PTHR10782:SF10)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=17002|UniProtKB=Q8N2W9	PIAS4	E3 SUMO-protein ligase PIAS4;PIAS4;PTN002473597;orthologs	E3 SUMO-PROTEIN LIGASE PIAS4 (PTHR10782:SF9)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=6023|UniProtKB=P13232	IL7	Interleukin-7;IL7;PTN009232805;orthologs	INTERLEUKIN-7 (PTHR48492:SF1)		Homo sapiens
+HUMAN|HGNC=29846|UniProtKB=O14512	SOCS6,SOCS7	Suppressor of cytokine signaling 7;SOCS7;PTN002553852;orthologs	SUPPRESSOR OF CYTOKINE SIGNALING 7 (PTHR10155:SF5)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=6010|UniProtKB=P31785	IL2RG	Cytokine receptor common subunit gamma;IL2RG;PTN002507111;orthologs	CYTOKINE RECEPTOR COMMON SUBUNIT GAMMA (PTHR23036:SF172)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4261|UniProtKB=P01241	GH1	Somatotropin;GH1;PTN002478816;orthologs	SOMATOTROPIN (PTHR11417:SF2)	peptide hormone(PC00179)	Homo sapiens
+HUMAN|HGNC=11187|UniProtKB=Q07889	SOS1	Son of sevenless homolog 1;SOS1;PTN002508291;orthologs	SON OF SEVENLESS HOMOLOG 1 (PTHR23113:SF168)	guanyl-nucleotide exchange factor(PC00113)	Homo sapiens
+HUMAN|HGNC=3702|UniProtKB=Q13642	FHL1	Four and a half LIM domains protein 1;FHL1;PTN002516840;orthologs	FOUR AND A HALF LIM DOMAINS PROTEIN 1 (PTHR47029:SF2)		Homo sapiens
+HUMAN|HGNC=6019|UniProtKB=P08887	IL6R	Interleukin-6 receptor subunit alpha;IL6R;PTN002507094;orthologs	INTERLEUKIN-6 RECEPTOR SUBUNIT ALPHA (PTHR23036:SF98)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6554|UniProtKB=P48357	LEPR	Leptin receptor;LEPR;PTN002507090;orthologs	LEPTIN RECEPTOR (PTHR23036:SF109)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=6004|UniProtKB=Q6UXL0	IL20RB	Interleukin-20 receptor subunit beta;IL20RB;PTN002500978;orthologs	INTERLEUKIN-20 RECEPTOR SUBUNIT BETA (PTHR20859:SF48)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11368|UniProtKB=P42226	STAT6	Signal transducer and activator of transcription 6;STAT6;PTN002483240;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 6 (PTHR11801:SF48)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=11365|UniProtKB=Q14765	STAT4	Signal transducer and activator of transcription 4;STAT4;PTN002483236;orthologs	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 4 (PTHR11801:SF19)	Rel homology transcription factor(PC00252)	Homo sapiens

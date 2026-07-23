@@ -1,0 +1,41 @@
+Integrin signaling hsa04518
+Парето-оптимальные гены для клеточного типа: Adipocyte
+IGF1
+TLN2
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+ITGA2B
+ITGB3
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+ITGA6
+ITGA1
+ACTB
+ACTG1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+LAMC1
+LAMB1
+ITGA11
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+ITGA5
+PXN
+Парето-оптимальные гены для клеточного типа: Lymphoid
+ITGA4
+ITGB7
+ITGAL
+ITGB2
+Парето-оптимальные гены для клеточного типа: Mast cell
+PARVB
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+ITGA3
+Парето-оптимальные гены для клеточного типа: Mural cell
+ILK
+ITGA8
+Парето-оптимальные гены для клеточного типа: Myeloid
+TLN1
+Парето-оптимальные гены для клеточного типа: Neural cell
+ITGB8
+ITGB4
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+ITGB6
+ITGAV
+PIK3R1

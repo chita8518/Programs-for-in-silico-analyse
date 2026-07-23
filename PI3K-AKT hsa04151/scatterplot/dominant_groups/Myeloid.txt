@@ -1,0 +1,17 @@
+Гены с доминирующим типом клетки: Myeloid
+============================================================
+
+GNB1
+CSF3R
+PRLR
+PPP2CA
+CSF1R
+YWHAZ
+JAK2
+SYK
+PIK3AP1
+MAP2K1
+PIK3R5
+GRB2
+MAPK1
+IFNAR1

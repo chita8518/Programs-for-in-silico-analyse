@@ -1,0 +1,17 @@
+Oxidative phosphorylation - hsa00190
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+UQCRC1
+UQCRC2
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+NDUFA4
+UQCR11
+Парето-оптимальные гены для клеточного типа: Lymphoid
+MT-CO1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+COX7C
+Парето-оптимальные гены для клеточного типа: Myeloid
+ATP6V0C
+MT-CYB
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+UQCRH
+COX6A2

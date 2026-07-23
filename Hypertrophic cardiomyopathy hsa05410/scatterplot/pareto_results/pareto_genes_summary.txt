@@ -1,0 +1,33 @@
+Hypertrophic cardiomyopathy hsa05410
+Парето-оптимальные гены для клеточного типа: Adipocyte
+ITGB5
+CACNG1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+CACNA1D
+ACTC1
+ITGB3
+SNTA1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+ACTB
+ITGB1
+ACTG1
+CACNG8
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+CACNG2
+Парето-оптимальные гены для клеточного типа: Lymphoid
+ITGB7
+TGFB1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+CACNG3
+CACNG4
+LAMA1
+CACNG7
+Парето-оптимальные гены для клеточного типа: Neural cell
+DAG1
+SGCB
+ITGB8
+ITGB4
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+ITGB6
+CACNB2
+CACNA1C

@@ -1,0 +1,38 @@
+WNT pathway hsa04310
+Парето-оптимальные гены для клеточного типа: Adipocyte
+GSK3B
+TLE1
+FZD4
+WNT3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+APC
+CSNK1A1
+DAAM1
+AXIN2
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+SKP1
+CSNK1E
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+WNT3A
+TCF7L1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CACYBP
+LEF1
+TCF7
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+FZD7
+WNT5A
+DVL2
+Парето-оптимальные гены для клеточного типа: Myeloid
+CTNNB1
+TLE4
+TLE3
+Парето-оптимальные гены для клеточного типа: Neural cell
+VANGL2
+LRP6
+APC2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+CTNNBIP1
+BTRC
+CSNK1A1L

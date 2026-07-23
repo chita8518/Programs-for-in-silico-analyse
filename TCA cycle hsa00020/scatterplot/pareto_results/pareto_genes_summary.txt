@@ -1,0 +1,12 @@
+TCA cycle hsa00020
+Парето-оптимальные гены для клеточного типа: Adipocyte
+DLD
+DLAT
+SUCLA2
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+SUCLG1
+IDH3A
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+PDHB
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+OGDH

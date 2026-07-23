@@ -1,0 +1,23 @@
+NF-kappa B signaling pathway hsa04064
+Парето-оптимальные гены для клеточного типа: Adipocyte
+TRAF3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+TRAF6
+MAP3K14
+MALT1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CD40
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+TNFRSF11A
+Парето-оптимальные гены для клеточного типа: Lymphoid
+LCK
+Парето-оптимальные гены для клеточного типа: Mast cell
+TRAF5
+BTK
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+IL1R1
+BIRC3
+Парето-оптимальные гены для клеточного типа: Myeloid
+SYK
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+TRAF2

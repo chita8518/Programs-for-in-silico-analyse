@@ -1,0 +1,22 @@
+ErbB signaling pathway (neuregulin-ErbB)  hsa04012
+Парето-оптимальные гены для клеточного типа: Adipocyte
+SOS1
+EGFR
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+ERBB4
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+SHC1
+Парето-оптимальные гены для клеточного типа: Mast cell
+NRG1
+Парето-оптимальные гены для клеточного типа: Myeloid
+CBL
+GRB2
+Парето-оптимальные гены для клеточного типа: Neural cell
+PTK2
+ERBB3
+SRC
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+GAB1
+PIK3R1

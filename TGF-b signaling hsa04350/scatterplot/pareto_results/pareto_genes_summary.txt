@@ -1,0 +1,22 @@
+TGF-b signaling hsa04350
+Парето-оптимальные гены для клеточного типа: Adipocyte
+BMPR2
+SMURF1
+SMAD6
+SMAD3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+HJV
+ACVR1
+BMPR1A
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+HDAC1
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+TGFBR2
+SMAD1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+TGFB1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+BMPR1B
+BMP2
+Парето-оптимальные гены для клеточного типа: Myeloid
+TGFBR1

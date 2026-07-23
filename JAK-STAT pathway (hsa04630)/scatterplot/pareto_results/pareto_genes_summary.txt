@@ -1,0 +1,36 @@
+JAK-STAT pathway (hsa04630)
+Парето-оптимальные гены для клеточного типа: Adipocyte
+GHR
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+IFNLR1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+IFNGR1
+SOCS3
+IL27RA
+Парето-оптимальные гены для клеточного типа: Fibroblast
+PDGFRA
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+LEPR
+IL6ST
+Парето-оптимальные гены для клеточного типа: Lymphoid
+JAK1
+IL7R
+IL2RG
+IL2RB
+Парето-оптимальные гены для клеточного типа: Mast cell
+IL23R
+IL4R
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+IL22RA1
+CNTF
+Парето-оптимальные гены для клеточного типа: Mural cell
+PDGFRB
+EPOR
+Парето-оптимальные гены для клеточного типа: Myeloid
+CSF3R
+IL2RA
+GRB2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1
+IL20RA

@@ -1,0 +1,10 @@
+Гены с доминирующим типом клетки: Ventricular Cardiomyocyte
+============================================================
+
+ATP1B1
+CAMK2D
+PLN
+VIPR2
+CACNA1C
+ADCY6
+TSHR

@@ -1,0 +1,181 @@
+HUMAN|HGNC=4617|UniProtKB=P49841	GSK3B	Glycogen synthase kinase-3 beta;GSK3B;PTN002514197;orthologs	GLYCOGEN SYNTHASE KINASE-3 BETA (PTHR24057:SF8)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=20340|UniProtKB=Q7Z3G6	PRICKLE2	Prickle-like protein 2;PRICKLE2;PTN002516877;orthologs	PRICKLE-LIKE PROTEIN 2 (PTHR24211:SF18)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=27106|UniProtKB=Q6P988	NOTUM	Palmitoleoyl-protein carboxylesterase NOTUM;NOTUM;PTN002502366;orthologs	PALMITOLEOYL-PROTEIN CARBOXYLESTERASE NOTUM (PTHR21562:SF7)		Homo sapiens
+HUMAN|HGNC=12776|UniProtKB=O96014	WNT11	Protein Wnt-11;WNT11;PTN002485921;orthologs	PROTEIN WNT-11 (PTHR12027:SF7)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2460|UniProtKB=P67870	CSNK2B	Casein kinase II subunit beta;CSNK2B;PTN002482727;orthologs	CASEIN KINASE II SUBUNIT BETA (PTHR11740:SF0)	kinase modulator(PC00140)	Homo sapiens
+HUMAN|HGNC=7670|UniProtKB=Q9Y6Q9	RAC3	Nuclear receptor coactivator 3;NCOA3;PTN002473103;orthologs	NUCLEAR RECEPTOR COACTIVATOR 3 (PTHR10684:SF3)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=6551|UniProtKB=Q9UJU2	LEF1	Lymphoid enhancer-binding factor 1;LEF1;PTN002470455;orthologs	LYMPHOID ENHANCER-BINDING FACTOR 1 (PTHR10373:SF11)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=6886|UniProtKB=P45984	MAPK9	Mitogen-activated protein kinase 9;MAPK9;PTN002513982;orthologs	MITOGEN-ACTIVATED PROTEIN KINASE 9 (PTHR24055:SF172)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=11639|UniProtKB=P36402	TCF7	Transcription factor 7;TCF7;PTN002470456;orthologs	TRANSCRIPTION FACTOR 7 (PTHR10373:SF33)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=23116|UniProtKB=Q9HC62	SENP2	Sentrin-specific protease 2;SENP2;PTN002489016;orthologs	SENTRIN-SPECIFIC PROTEASE 2 (PTHR12606:SF11)	protease(PC00190)	Homo sapiens
+HUMAN|HGNC=2451|UniProtKB=P48729	CSNK1A1	Casein kinase I isoform alpha;CSNK1A1;PTN002484421;orthologs	CASEIN KINASE I ISOFORM ALPHA (PTHR11909:SF84)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=9055|UniProtKB=Q00722	PLCB2	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2;PLCB2;PTN002470081;orthologs	1-PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE PHOSPHODIESTERASE BETA-2 (PTHR10336:SF10)	phospholipase(PC00186)	Homo sapiens
+HUMAN|HGNC=10899|UniProtKB=P63208	SKP1	S-phase kinase-associated protein 1;SKP1;PTN002476797;orthologs	S-PHASE KINASE-ASSOCIATED PROTEIN 1 (PTHR11165:SF189)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=2514|UniProtKB=P35222	CTNNB1	Catenin beta-1;CTNNB1;PTN002511128;orthologs	CATENIN BETA-1 (PTHR45976:SF4)		Homo sapiens
+HUMAN|HGNC=11640|UniProtKB=Q9HCS4	TCF7L1	Transcription factor 7-like 1;TCF7L1;PTN002470459;orthologs	TRANSCRIPTION FACTOR 7-LIKE 1 (PTHR10373:SF25)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=3959|UniProtKB=Q92765	FRZB	Secreted frizzled-related protein 3;FRZB;PTN002477926;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 3 (PTHR11309:SF97)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11840|UniProtKB=Q04727	TLE4	Transducin-like enhancer protein 4;TLE4;PTN002474192;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 4 (PTHR10814:SF31)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=10778|UniProtKB=Q6FHJ7	SFRP4	Secreted frizzled-related protein 4;SFRP4;PTN002477925;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 4 (PTHR11309:SF7)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9803|UniProtKB=P60763	RAC3	Ras-related C3 botulinum toxin substrate 3;RAC3;PTN002514694;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 3 (PTHR24072:SF325)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=10857|UniProtKB=Q8IUQ4	SIAH1	E3 ubiquitin-protein ligase SIAH1;SIAH1;PTN002469869;orthologs	E3 UBIQUITIN-PROTEIN LIGASE SIAH1 (PTHR45877:SF7)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=4504|UniProtKB=O75473	LGR5	Leucine-rich repeat-containing G-protein coupled receptor 5;LGR5;PTN002542420;orthologs	LEUCINE-RICH REPEAT-CONTAINING G-PROTEIN COUPLED RECEPTOR 5 (PTHR24372:SF71)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=16267|UniProtKB=Q9UBV4	WNT16	Protein Wnt-16;WNT16;PTN002485938;orthologs	PROTEIN WNT-16 (PTHR12027:SF70)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6859|UniProtKB=O43318	MAP3K7	Mitogen-activated protein kinase kinase kinase 7;MAP3K7;PTN002521934;orthologs	MITOGEN-ACTIVATED PROTEIN KINASE KINASE KINASE 7 (PTHR46716:SF1)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=12780|UniProtKB=P09544	WNT2	Protein Wnt-2;WNT2;PTN002485931;orthologs	PROTEIN WNT-2 (PTHR12027:SF86)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=12775|UniProtKB=O00744	WNT10B	Protein Wnt-10b;WNT10B;PTN002485928;orthologs	PROTEIN WNT-10B (PTHR12027:SF76)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=24593|UniProtKB=Q9H2H0	CXXC4	CXXC-type zinc finger protein 4;CXXC4;PTN002491582;orthologs	CXXC-TYPE ZINC FINGER PROTEIN 4 (PTHR13419:SF1)		Homo sapiens
+HUMAN|HGNC=1461|UniProtKB=Q13554	CAMK2B	Calcium_calmodulin-dependent protein kinase type II subunit beta;CAMK2B;PTN002539356;orthologs	CALCIUM_CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II SUBUNIT BETA (PTHR24347:SF403)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=20153|UniProtKB=Q9HCK8	CHD8	Chromodomain-helicase-DNA-binding protein 8;CHD8;PTN002473913;orthologs	CHROMODOMAIN-HELICASE-DNA-BINDING PROTEIN 8 (PTHR45623:SF3)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Homo sapiens
+HUMAN|HGNC=17280|UniProtKB=Q9Y2G4	ANKRD6	Ankyrin repeat domain-containing protein 6;ANKRD6;PTN002516781;orthologs	ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 6 (PTHR24203:SF84)		Homo sapiens
+HUMAN|HGNC=30788|UniProtKB=Q9H808	TLE6	Transducin-like enhancer protein 6;TLE6;PTN002474201;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 6 (PTHR10814:SF2)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=4046|UniProtKB=Q9H461	FZD8	Frizzled-8;FZD8;PTN002477928;orthologs	FRIZZLED-8 (PTHR11309:SF90)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9802|UniProtKB=P15153	RAC2	Ras-related C3 botulinum toxin substrate 2;RAC2;PTN002514693;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 2 (PTHR24072:SF169)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=12789|UniProtKB=Q93098	WNT8B	Protein Wnt-8b;WNT8B;PTN002485940;orthologs	PROTEIN WNT-8B (PTHR12027:SF94)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=9393|UniProtKB=P17252	PRKCA,PRKACA	Protein kinase C alpha type;PRKCA;PTN002519431;orthologs	PROTEIN KINASE C ALPHA TYPE (PTHR24356:SF193)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=10776|UniProtKB=Q8N474	SFRP1	Secreted frizzled-related protein 1;SFRP1;PTN002477917;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 1 (PTHR11309:SF87)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=18502|UniProtKB=Q9BQ87	TBL1Y	F-box-like_WD repeat-containing protein TBL1Y;TBL1Y;PTN002504477;orthologs	F-BOX-LIKE_WD REPEAT-CONTAINING PROTEIN TBL1Y (PTHR22846:SF73)		Homo sapiens
+HUMAN|HGNC=2894|UniProtKB=Q9UBT3	DKK4	Dickkopf-related protein 4;DKK4;PTN002486214;orthologs	DICKKOPF-RELATED PROTEIN 4 (PTHR12113:SF10)	membrane trafficking regulatory protein(PC00151)	Homo sapiens
+HUMAN|HGNC=6770|UniProtKB=Q13485	SMAD4	Mothers against decapentaplegic homolog 4;SMAD4;PTN002492182;orthologs	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 4 (PTHR13703:SF63)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=1307|UniProtKB=Q9Y3M2	CBY1	Protein chibby homolog 1;CBY1;PTN002502291;orthologs	PROTEIN CHIBBY HOMOLOG 1 (PTHR21533:SF20)		Homo sapiens
+HUMAN|HGNC=9317|UniProtKB=P63098	PPP3R1	Calcineurin subunit B type 1;PPP3R1;PTN002507480;orthologs	CALCINEURIN SUBUNIT B TYPE 1 (PTHR45942:SF3)		Homo sapiens
+HUMAN|HGNC=6769|UniProtKB=P84022	SMAD3	Mothers against decapentaplegic homolog 3;SMAD3;PTN002492186;orthologs	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 3 (PTHR13703:SF53)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=29381|UniProtKB=Q9BRK4	LZTS2	Leucine zipper putative tumor suppressor 2;LZTS2;PTN002499989;orthologs	ZIPPER PUTATIVE TUMOR SUPPRESSOR 2-RELATED (PTHR19354:SF4)		Homo sapiens
+HUMAN|HGNC=1850|UniProtKB=Q9NYQ6	CELSR1	Cadherin EGF LAG seven-pass G-type receptor 1;CELSR1;PTN002513181;orthologs	CADHERIN EGF LAG SEVEN-PASS G-TYPE RECEPTOR 1 (PTHR24026:SF36)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=9395|UniProtKB=P05771	PRKCB	Protein kinase C beta type;PRKCB;PTN002519429;orthologs	PROTEIN KINASE C BETA TYPE (PTHR24356:SF158)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=1862|UniProtKB=O95813	CER1	Cerberus;CER1;PTN002495757;orthologs	CERBERUS (PTHR15273:SF4)		Homo sapiens
+HUMAN|HGNC=9801|UniProtKB=P63000	RAC1	Ras-related C3 botulinum toxin substrate 1;RAC1;PTN002514697;orthologs	RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 1 (PTHR24072:SF395)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=1582|UniProtKB=P24385	CCND1	G1_S-specific cyclin-D1;CCND1;PTN002468715;orthologs	G1_S-SPECIFIC CYCLIN-D1 (PTHR10177:SF67)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=11838|UniProtKB=Q04725	TLE2	Transducin-like enhancer protein 2;TLE2;PTN002474204;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 2 (PTHR10814:SF4)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=20289|UniProtKB=Q8N752	CSNK1A1L	Casein kinase I isoform alpha-like;CSNK1A1L;PTN002484420;orthologs	CASEIN KINASE I ISOFORM ALPHA-LIKE (PTHR11909:SF139)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=16175|UniProtKB=Q2I0M5	RSPO4	R-spondin-4;RSPO4;PTN002510747;orthologs	R-SPONDIN-4 (PTHR46987:SF6)		Homo sapiens
+HUMAN|HGNC=4038|UniProtKB=Q9UP38	FZD1	Frizzled-1;FZD1;PTN002477910;orthologs	FRIZZLED-1 (PTHR11309:SF81)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9381|UniProtKB=P22694	PRKACB	cAMP-dependent protein kinase catalytic subunit beta;PRKACB;PTN002519370;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT BETA (PTHR24353:SF150)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=14929|UniProtKB=Q96EB6	SIRT1	NAD-dependent protein deacetylase sirtuin-1;SIRT1;PTN002476412;orthologs	NAD-DEPENDENT PROTEIN DEACETYLASE SIRTUIN-1 (PTHR11085:SF9)		Homo sapiens
+HUMAN|HGNC=16913|UniProtKB=Q9NSA3	CTNNBIP1	Beta-catenin-interacting protein 1;CTNNBIP1;PTN002497470;orthologs	BETA-CATENIN-INTERACTING PROTEIN 1 (PTHR47142:SF1)		Homo sapiens
+HUMAN|HGNC=2457|UniProtKB=P68400	CSNK2A1	Casein kinase II subunit alpha;CSNK2A1;PTN002513964;orthologs	CASEIN KINASE II SUBUNIT ALPHA-RELATED (PTHR24054:SF16)		Homo sapiens
+HUMAN|HGNC=18143|UniProtKB=Q86T65	DAAM2	Disheveled-associated activator of morphogenesis 2;DAAM2;PTN002509326;orthologs	DISHEVELED-ASSOCIATED ACTIVATOR OF MORPHOGENESIS 2 (PTHR45725:SF7)		Homo sapiens
+HUMAN|HGNC=12779|UniProtKB=O14905	WNT9B	Protein Wnt-9b;WNT9B;PTN002485941;orthologs	PROTEIN WNT-9B (PTHR12027:SF84)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1144|UniProtKB=Q9Y297	BTRC	F-box_WD repeat-containing protein 1A;BTRC;PTN002542101;orthologs	F-BOX_WD REPEAT-CONTAINING PROTEIN 1A (PTHR14604:SF5)	microtubule or microtubule-binding cytoskeletal protein(PC00157)	Homo sapiens
+HUMAN|HGNC=13607|UniProtKB=Q9UKB1	FBXW11	F-box_WD repeat-containing protein 11;FBXW11;PTN002542103;orthologs	F-BOX_WD REPEAT-CONTAINING PROTEIN 11 (PTHR44129:SF4)		Homo sapiens
+HUMAN|HGNC=3085|UniProtKB=P54792	DVL1	Putative segment polarity protein dishevelled homolog DVL1P1;DVL1P1;PTN002474680;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-1-RELATED (PTHR10878:SF5)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=3231|UniProtKB=Q9HCU4	CELSR2	Cadherin EGF LAG seven-pass G-type receptor 2;CELSR2;PTN002513177;orthologs	CADHERIN EGF LAG SEVEN-PASS G-TYPE RECEPTOR 2 (PTHR24026:SF32)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=30423|UniProtKB=Q9HB71	CACYBP	Calcyclin-binding protein;CACYBP;PTN002491023;orthologs	CALCYCLIN-BINDING PROTEIN (PTHR13164:SF3)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=3086|UniProtKB=O14641	DVL2	Segment polarity protein dishevelled homolog DVL-2;DVL2;PTN002474682;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-2 (PTHR10878:SF8)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=9235|UniProtKB=Q03181	PPARD	Peroxisome proliferator-activated receptor delta;PPARD;PTN002515160;orthologs	PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR DELTA (PTHR24082:SF15)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=10256|UniProtKB=Q01973	ROR1	Inactive tyrosine-protein kinase transmembrane receptor ROR1;ROR1;PTN002521359;orthologs	INACTIVE TYROSINE-PROTEIN KINASE TRANSMEMBRANE RECEPTOR ROR1 (PTHR24416:SF134)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=10481|UniProtKB=P34925	RYK	Tyrosine-protein kinase RYK;RYK;PTN002521292;orthologs	TYROSINE-PROTEIN KINASE RYK (PTHR24416:SF349)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4047|UniProtKB=O00144	FZD3,FZD9	Frizzled-9;FZD9;PTN002477896;orthologs	FRIZZLED-9 (PTHR11309:SF79)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=12778|UniProtKB=O14904	WNT9A	Protein Wnt-9a;WNT9A;PTN002485943;orthologs	PROTEIN WNT-9A (PTHR12027:SF75)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=28583|UniProtKB=Q6UXX9	RSPO2	R-spondin-2;RSPO2;PTN002510745;orthologs	R-SPONDIN-2 (PTHR46987:SF4)		Homo sapiens
+HUMAN|HGNC=12785|UniProtKB=Q9Y6F9	WNT6	Protein Wnt-6;WNT6;PTN002485946;orthologs	PROTEIN WNT-6 (PTHR12027:SF72)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1585|UniProtKB=P30281	CCND3	G1_S-specific cyclin-D3;CCND3;PTN002468714;orthologs	G1_S-SPECIFIC CYCLIN-D3 (PTHR10177:SF65)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=2892|UniProtKB=Q9UBU2	DKK2	Dickkopf-related protein 2;DKK2;PTN002486219;orthologs	DICKKOPF-RELATED PROTEIN 2 (PTHR12113:SF12)	membrane trafficking regulatory protein(PC00151)	Homo sapiens
+HUMAN|HGNC=12781|UniProtKB=Q93097	WNT2B	Protein Wnt-2b;WNT2B;PTN002485932;orthologs	PROTEIN WNT-2B (PTHR12027:SF93)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=16048|UniProtKB=O75474	FRAT2	GSK-3-binding protein FRAT2;FRAT2;PTN002532170;orthologs	GSK-3-BINDING PROTEIN FRAT2 (PTHR35154:SF2)		Homo sapiens
+HUMAN|HGNC=7775|UniProtKB=O95644	NFATC1	Nuclear factor of activated T-cells, cytoplasmic 1;NFATC1;PTN002488615;orthologs	NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 1 (PTHR12533:SF5)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=12769|UniProtKB=O95388	CCN4	CCN family member 4;CCN4;PTN002478200;orthologs	CCN FAMILY MEMBER 4 (PTHR11348:SF4)	growth factor(PC00112)	Homo sapiens
+HUMAN|HGNC=18122|UniProtKB=Q9H6I2	SOX17	Transcription factor SOX-17;SOX17;PTN002469563;orthologs	TRANSCRIPTION FACTOR SOX-17 (PTHR10270:SF216)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=16805|UniProtKB=Q2TBC4	PRICKLE4	Prickle-like protein 4;PRICKLE4;PTN002516894;orthologs	PRICKLE-LIKE PROTEIN 4 (PTHR24214:SF34)	actin or actin-binding cytoskeletal protein(PC00041)	Homo sapiens
+HUMAN|HGNC=2458|UniProtKB=Q8NEV1	CSNK2A3	Casein kinase II subunit alpha 3;CSNK2A3;PTN002513963;orthologs	CASEIN KINASE II SUBUNIT ALPHA-RELATED (PTHR24054:SF16)		Homo sapiens
+HUMAN|HGNC=12774|UniProtKB=P04628	WNT1	Proto-oncogene Wnt-1;WNT1;PTN002485947;orthologs	PROTO-ONCOGENE WNT-1 (PTHR12027:SF91)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2494|UniProtKB=Q13363	CTBP1	C-terminal-binding protein 1;CTBP1;PTN002475529;orthologs	C-TERMINAL-BINDING PROTEIN 1 (PTHR46029:SF2)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=11837|UniProtKB=Q04724	TLE1	Transducin-like enhancer protein 1;TLE1;PTN002474209;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 1 (PTHR10814:SF29)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=18505|UniProtKB=Q68DV7	RNF43	E3 ubiquitin-protein ligase RNF43;RNF43;PTN002497201;orthologs	E3 UBIQUITIN-PROTEIN LIGASE RNF43 (PTHR16200:SF2)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=4043|UniProtKB=Q13467	FZD5	Frizzled-5;FZD5;PTN002477922;orthologs	FRIZZLED-5 (PTHR11309:SF136)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=17019|UniProtKB=Q96MT3	PRICKLE1	Prickle-like protein 1;PRICKLE1;PTN002516869;orthologs	PRICKLE-LIKE PROTEIN 1 (PTHR24211:SF15)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=16265|UniProtKB=Q9H1J7	WNT5B	Protein Wnt-5b;WNT5B;PTN002485926;orthologs	PROTEIN WNT-5B (PTHR12027:SF87)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=3944|UniProtKB=Q92837	FRAT1	Proto-oncogene FRAT1;FRAT1;PTN002532169;orthologs	PROTO-ONCOGENE FRAT1 (PTHR35154:SF1)		Homo sapiens
+HUMAN|HGNC=9056|UniProtKB=Q01970	PLCB3	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3;PLCB3;PTN002470083;orthologs	1-PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE PHOSPHODIESTERASE BETA-3 (PTHR10336:SF11)	phospholipase(PC00186)	Homo sapiens
+HUMAN|HGNC=10777|UniProtKB=Q96HF1	SFRP2	Secreted frizzled-related protein 2;SFRP2;PTN002477919;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 2 (PTHR11309:SF45)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=11839|UniProtKB=Q04726	TLE3	Transducin-like enhancer protein 3;TLE3;PTN002474195;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 3 (PTHR10814:SF24)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=2495|UniProtKB=P56545	CTBP2	C-terminal-binding protein 2;CTBP2;PTN002475528;orthologs	C-TERMINAL-BINDING PROTEIN 2 (PTHR46029:SF3)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=9508|UniProtKB=P49768	PSEN1	Presenilin-1;PSEN1;PTN002469028;orthologs	PRESENILIN-1 (PTHR10202:SF18)	aspartic protease(PC00053)	Homo sapiens
+HUMAN|HGNC=13299|UniProtKB=Q9BXB1	LGR4	Leucine-rich repeat-containing G-protein coupled receptor 4;LGR4;PTN002542419;orthologs	LEUCINE-RICH REPEAT-CONTAINING G-PROTEIN COUPLED RECEPTOR 4 (PTHR24372:SF67)	G-protein coupled receptor(PC00021)	Homo sapiens
+HUMAN|HGNC=15917|UniProtKB=Q9NQ66	PLCB1	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1;PLCB1;PTN002470082;orthologs	1-PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE PHOSPHODIESTERASE BETA-1 (PTHR10336:SF12)	phospholipase(PC00186)	Homo sapiens
+HUMAN|HGNC=18081|UniProtKB=Q9Y5W5	WIF1	Wnt inhibitory factor 1;WIF1;PTN002550349;orthologs	WNT INHIBITORY FACTOR 1 (PTHR14949:SF32)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=10257|UniProtKB=Q01974	ROR2	Tyrosine-protein kinase transmembrane receptor ROR2;ROR2;PTN002521358;orthologs	TYROSINE-PROTEIN KINASE TRANSMEMBRANE RECEPTOR ROR2 (PTHR24416:SF132)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=23360|UniProtKB=Q8N163	CCAR2	Cell cycle and apoptosis regulator protein 2;CCAR2;PTN002494484;orthologs	CELL CYCLE AND APOPTOSIS REGULATOR PROTEIN 2 (PTHR21237:SF40)	primary active transporter(PC00068)	Homo sapiens
+HUMAN|HGNC=12782|UniProtKB=P56703	WNT3	Proto-oncogene Wnt-3;WNT3;PTN002485948;orthologs	PROTO-ONCOGENE WNT-3 (PTHR12027:SF82)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2459|UniProtKB=P19784	CSNK2A2	Casein kinase II subunit alpha';CSNK2A2;PTN002513959;orthologs	CASEIN KINASE II SUBUNIT ALPHA' (PTHR24054:SF34)		Homo sapiens
+HUMAN|HGNC=4452|UniProtKB=O75487	GPC4	Glypican-4;GPC4;PTN002474236;orthologs	GLYPICAN-4 (PTHR10822:SF25)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=9318|UniProtKB=Q96LZ3	PPP3R2	Calcineurin subunit B type 2;PPP3R2;PTN002507479;orthologs	CALCINEURIN SUBUNIT B TYPE 2 (PTHR45942:SF2)		Homo sapiens
+HUMAN|HGNC=13718|UniProtKB=P15407	FOSL1	Fos-related antigen 1;FOSL1;PTN002511584;orthologs	FOS-RELATED ANTIGEN 1 (PTHR23351:SF6)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=17045|UniProtKB=Q969G9	NKD1	Protein naked cuticle homolog 1;NKD1;PTN002503324;orthologs	PROTEIN NAKED CUTICLE HOMOLOG 1 (PTHR22611:SF2)		Homo sapiens
+HUMAN|HGNC=2891|UniProtKB=O94907	DKK1	Dickkopf-related protein 1;DKK1;PTN002486216;orthologs	DICKKOPF-RELATED PROTEIN 1 (PTHR12113:SF11)	membrane trafficking regulatory protein(PC00151)	Homo sapiens
+HUMAN|HGNC=17046|UniProtKB=Q969F2	NKD2	Protein naked cuticle homolog 2;NKD2;PTN002503325;orthologs	PROTEIN NAKED CUTICLE HOMOLOG 2 (PTHR22611:SF1)		Homo sapiens
+HUMAN|HGNC=6697|UniProtKB=O75197	LRP5	Low-density lipoprotein receptor-related protein 5;LRP5;PTN002541529;orthologs	LOW-DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 5 (PTHR46513:SF16)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=12788|UniProtKB=Q9H1J5	WNT8A	Protein Wnt-8a;WNT8A;PTN002485939;orthologs	PROTEIN WNT-8A (PTHR12027:SF92)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=18142|UniProtKB=Q9Y4D1	DAAM1	Disheveled-associated activator of morphogenesis 1;DAAM1;PTN002509328;orthologs	DISHEVELED-ASSOCIATED ACTIVATOR OF MORPHOGENESIS 1 (PTHR45725:SF16)		Homo sapiens
+HUMAN|HGNC=19719|UniProtKB=Q9HBX8	LGR6	Leucine-rich repeat-containing G-protein coupled receptor 6;LGR6;PTN002542423;orthologs	LEUCINE-RICH REPEAT-CONTAINING G-PROTEIN COUPLED RECEPTOR 6 (PTHR45836:SF19)		Homo sapiens
+HUMAN|HGNC=9382|UniProtKB=P22612	PRKACG	cAMP-dependent protein kinase catalytic subunit gamma;PRKACG;PTN002519371;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT GAMMA (PTHR24353:SF137)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=9380|UniProtKB=P17612	PRKACA	cAMP-dependent protein kinase catalytic subunit alpha;PRKACA;PTN002519372;orthologs	CAMP-DEPENDENT PROTEIN KINASE CATALYTIC SUBUNIT ALPHA (PTHR24353:SF82)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=10252|UniProtKB=O75116	ROCK2	Rho-associated protein kinase 2;ROCK2;PTN002506646;orthologs	RHO-ASSOCIATED PROTEIN KINASE 2 (PTHR22988:SF28)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=2453|UniProtKB=P49674	CSNK1E	Casein kinase I isoform epsilon;CSNK1E;PTN002484397;orthologs	CASEIN KINASE I ISOFORM EPSILON (PTHR11909:SF428)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=7777|UniProtKB=Q12968	NFATC3	Nuclear factor of activated T-cells, cytoplasmic 3;NFATC3;PTN002488613;orthologs	NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 3 (PTHR12533:SF6)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=583|UniProtKB=P25054	APC	Adenomatous polyposis coli protein;APC;PTN002489064;orthologs	ADENOMATOUS POLYPOSIS COLI PROTEIN (PTHR12607:SF11)		Homo sapiens
+HUMAN|HGNC=8824|UniProtKB=P36955	SERPINF1	Pigment epithelium-derived factor;SERPINF1;PTN002479191;orthologs	PIGMENT EPITHELIUM-DERIVED FACTOR (PTHR11461:SF84)	protease inhibitor(PC00191)	Homo sapiens
+HUMAN|HGNC=609|UniProtKB=P02655	APC2	Apolipoprotein C-II;APOC2;PTN002497550;orthologs	APOLIPOPROTEIN C-II (PTHR16566:SF0)	apolipoprotein(PC00052)	Homo sapiens
+HUMAN|HGNC=19967|UniProtKB=Q9P219	CCDC88C	Protein Daple;CCDC88C;PTN002498514;orthologs	PROTEIN DAPLE (PTHR18947:SF31)	membrane traffic protein(PC00150)	Homo sapiens
+HUMAN|HGNC=7776|UniProtKB=Q13469	NFATC2	Nuclear factor of activated T-cells, cytoplasmic 2;NFATC2;PTN002488611;orthologs	NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 2 (PTHR12533:SF4)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=3084|UniProtKB=O14640	DVL1	Segment polarity protein dishevelled homolog DVL-1;DVL1;PTN002474681;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-1-RELATED (PTHR10878:SF5)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=11585|UniProtKB=O60907	TBL1X	F-box-like_WD repeat-containing protein TBL1X;TBL1X;PTN002504478;orthologs	F-BOX-LIKE_WD REPEAT-CONTAINING PROTEIN TBL1X (PTHR22846:SF52)		Homo sapiens
+HUMAN|HGNC=2551|UniProtKB=Q13616	CUL1	Cullin-1;CUL1;PTN002484904;orthologs	CULLIN-1 (PTHR11932:SF173)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=17652|UniProtKB=Q9H237	PORCN	Protein-serine O-palmitoleoyltransferase porcupine;PORCN;PTN002493343;orthologs	PROTEIN-SERINE O-PALMITOLEOYLTRANSFERASE PORCUPINE (PTHR13906:SF12)	acetyltransferase(PC00038)	Homo sapiens
+HUMAN|HGNC=15983|UniProtKB=P56704	WNT3A	Protein Wnt-3a;WNT3A;PTN002485950;orthologs	PROTEIN WNT-3A (PTHR12027:SF88)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=18126|UniProtKB=Q9ULT6	ZNRF3	E3 ubiquitin-protein ligase ZNRF3;ZNRF3;PTN002497202;orthologs	E3 UBIQUITIN-PROTEIN LIGASE ZNRF3 (PTHR16200:SF3)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=7778|UniProtKB=Q14934	NFATC4	Nuclear factor of activated T-cells, cytoplasmic 4;NFATC4;PTN002488614;orthologs	NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 4 (PTHR12533:SF11)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=12784|UniProtKB=P41221	WNT5A	Protein Wnt-5a;WNT5A;PTN002485925;orthologs	PROTEIN WNT-5A (PTHR12027:SF33)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=4039|UniProtKB=Q9ULW2	FZD10	Frizzled-10;FZD10;PTN002477897;orthologs	FRIZZLED-10 (PTHR11309:SF86)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=30251|UniProtKB=Q13145	BAMBI	BMP and activin membrane-bound inhibitor homolog;BAMBI;PTN002496159;orthologs	BMP AND ACTIVIN MEMBRANE-BOUND INHIBITOR HOMOLOG (PTHR15505:SF1)		Homo sapiens
+HUMAN|HGNC=10779|UniProtKB=Q5T4F7	SFRP5	Secreted frizzled-related protein 5;SFRP5;PTN002477915;orthologs	SECRETED FRIZZLED-RELATED PROTEIN 5 (PTHR11309:SF46)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=2516|UniProtKB=Q9UQB3	CTNND2	Catenin delta-2;CTNND2;PTN002470451;orthologs	CATENIN DELTA-2 (PTHR10372:SF9)	intermediate filament binding protein(PC00130)	Homo sapiens
+HUMAN|HGNC=1583|UniProtKB=P30279	CCND2	G1_S-specific cyclin-D2;CCND2;PTN002468716;orthologs	G1_S-SPECIFIC CYCLIN-D2 (PTHR10177:SF66)	kinase activator(PC00138)	Homo sapiens
+HUMAN|HGNC=9314|UniProtKB=Q08209	PPP3CA	Protein phosphatase 3 catalytic subunit alpha;PPP3CA;PTN002481533;orthologs	PROTEIN PHOSPHATASE 3 CATALYTIC SUBUNIT ALPHA (PTHR45673:SF5)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=9059|UniProtKB=Q15147	PLCB4	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4;PLCB4;PTN002470080;orthologs	1-PHOSPHATIDYLINOSITOL 4,5-BISPHOSPHATE PHOSPHODIESTERASE BETA-4 (PTHR10336:SF36)	phospholipase(PC00186)	Homo sapiens
+HUMAN|HGNC=21679|UniProtKB=Q2MKA7	RSPO1	R-spondin-1;RSPO1;PTN002510744;orthologs	R-SPONDIN-1 (PTHR46987:SF5)		Homo sapiens
+HUMAN|HGNC=3373|UniProtKB=Q09472	EP300	Histone acetyltransferase p300;EP300;PTN002492803;orthologs	HISTONE ACETYLTRANSFERASE P300 (PTHR13808:SF29)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=3087|UniProtKB=Q92997	DVL3	Segment polarity protein dishevelled homolog DVL-3;DVL3;PTN002474683;orthologs	SEGMENT POLARITY PROTEIN DISHEVELLED HOMOLOG DVL-3 (PTHR10878:SF6)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=6872|UniProtKB=P53779	MAPK10	Mitogen-activated protein kinase 10;MAPK10;PTN002513980;orthologs	MITOGEN-ACTIVATED PROTEIN KINASE 10 (PTHR24055:SF162)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=3230|UniProtKB=Q9NYQ7	CELSR3	Cadherin EGF LAG seven-pass G-type receptor 3;CELSR3;PTN002513175;orthologs	CADHERIN EGF LAG SEVEN-PASS G-TYPE RECEPTOR 3 (PTHR24026:SF38)	cadherin(PC00057)	Homo sapiens
+HUMAN|HGNC=12786|UniProtKB=O00755	WNT7A	Protein Wnt-7a;WNT7A;PTN002485936;orthologs	PROTEIN WNT-7A (PTHR12027:SF78)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=6204|UniProtKB=P05412	JUN	Transcription factor Jun;JUN;PTN002479243;orthologs	TRANSCRIPTION FACTOR JUN (PTHR11462:SF8)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=29529|UniProtKB=Q9BZK7	TBL1XR1	F-box-like_WD repeat-containing protein TBL1XR1;TBL1XR1;PTN002504479;orthologs	F-BOX-LIKE_WD REPEAT-CONTAINING PROTEIN TBL1XR1 (PTHR22846:SF40)		Homo sapiens
+HUMAN|HGNC=13771|UniProtKB=Q9BQB4	SOST	Sclerostin;SOST;PTN002495179;orthologs	SCLEROSTIN (PTHR14903:SF4)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=2348|UniProtKB=Q92793	CREBBP	CREB-binding protein;CREBBP;PTN002492802;orthologs	CREB-BINDING PROTEIN (PTHR13808:SF34)	histone modifying enzyme(PC00261)	Homo sapiens
+HUMAN|HGNC=4040|UniProtKB=Q14332	FZD2	Frizzled-2;FZD2;PTN002477909;orthologs	FRIZZLED-2 (PTHR11309:SF34)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=26892|UniProtKB=Q8NCL9	APCDD1L	Protein APCDD1-like;APCDD1L;PTN002524978;orthologs	PROTEIN APCDD1-LIKE (PTHR31021:SF3)		Homo sapiens
+HUMAN|HGNC=12787|UniProtKB=P56706	WNT7B	Protein Wnt-7b;WNT7B;PTN002485944;orthologs	PROTEIN WNT-7B (PTHR12027:SF73)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=53648|UniProtKB=A0A1W2PR48	TLE7	Transducin-like enhancer protein 7;TLE7;PTN004200624;orthologs	TRANSDUCIN-LIKE ENHANCER PROTEIN 7 (PTHR10814:SF33)	transcription cofactor(PC00217)	Homo sapiens
+HUMAN|HGNC=6881|UniProtKB=P45983	MAPK8	Mitogen-activated protein kinase 8;MAPK8;PTN002513983;orthologs	MITOGEN-ACTIVATED PROTEIN KINASE 8 (PTHR24055:SF222)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=12783|UniProtKB=P56705	WNT4	Protein Wnt-4;WNT4;PTN002485922;orthologs	PROTEIN WNT-4 (PTHR12027:SF101)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=9402|UniProtKB=P05129	PRKCG	Protein kinase C gamma type;PRKCG;PTN002519430;orthologs	PROTEIN KINASE C GAMMA TYPE (PTHR24356:SF162)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=10474|UniProtKB=Q9Y265	RUVBL1	RuvB-like 1;RUVBL1;PTN002476476;orthologs	RUVB-LIKE 1 (PTHR11093:SF6)		Homo sapiens
+HUMAN|HGNC=24036|UniProtKB=O95996	APC2	Adenomatous polyposis coli protein 2;APC2;PTN002489062;orthologs	ADENOMATOUS POLYPOSIS COLI PROTEIN 2 (PTHR12607:SF3)		Homo sapiens
+HUMAN|HGNC=903|UniProtKB=O15169	AXIN1	Axin-1;AXIN1;PTN002474406;orthologs	AXIN-1 (PTHR46102:SF3)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=11641|UniProtKB=Q9NQB0	TCF7L2	Transcription factor 7-like 2;TCF7L2;PTN002470461;orthologs	TRANSCRIPTION FACTOR 7-LIKE 2 (PTHR10373:SF32)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=4044|UniProtKB=O60353	FZD6	Frizzled-6;FZD6;PTN002477904;orthologs	FRIZZLED-6 (PTHR11309:SF75)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4045|UniProtKB=O75084	FZD7	Frizzled-7;FZD7;PTN002477911;orthologs	FRIZZLED-7 (PTHR11309:SF31)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9928|UniProtKB=P62877	RBX1	E3 ubiquitin-protein ligase RBX1;RBX1;PTN002477171;orthologs	E3 UBIQUITIN-PROTEIN LIGASE RBX1 (PTHR11210:SF61)	ubiquitin-protein ligase(PC00234)	Homo sapiens
+HUMAN|HGNC=6935|UniProtKB=P23508	MCC	Colorectal mutant cancer protein;MCC;PTN002511530;orthologs	COLORECTAL MUTANT CANCER PROTEIN (PTHR23347:SF4)		Homo sapiens
+HUMAN|HGNC=13829|UniProtKB=Q9GZT5	WNT10A	Protein Wnt-10a;WNT10A;PTN002485929;orthologs	PROTEIN WNT-10A (PTHR12027:SF89)	intercellular signal molecule(PC00207)	Homo sapiens
+HUMAN|HGNC=1463|UniProtKB=Q13555	CAMK2G	Calcium_calmodulin-dependent protein kinase type II subunit gamma;CAMK2G;PTN002539359;orthologs	CALCIUM_CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II SUBUNIT GAMMA (PTHR24347:SF398)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=15512|UniProtKB=Q8TAA9	VANGL1	Vang-like protein 1;VANGL1;PTN002501018;orthologs	VANG-LIKE PROTEIN 1 (PTHR20886:SF8)		Homo sapiens
+HUMAN|HGNC=29858|UniProtKB=Q9UBE8	NLK	Serine_threonine-protein kinase NLK;NLK;PTN002514013;orthologs	SERINE_THREONINE-PROTEIN KINASE NLK (PTHR24055:SF380)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=9316|UniProtKB=P48454	PPP3CC	Serine_threonine-protein phosphatase 2B catalytic subunit gamma isoform;PPP3CC;PTN002481530;orthologs	SERINE_THREONINE-PROTEIN PHOSPHATASE 2B CATALYTIC SUBUNIT GAMMA ISOFORM (PTHR45673:SF2)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=667|UniProtKB=P61586	RHOA	Transforming protein RhoA;RHOA;PTN002514653;orthologs	TRANSFORMING PROTEIN RHOA (PTHR24072:SF153)	small GTPase(PC00208)	Homo sapiens
+HUMAN|HGNC=17870|UniProtKB=Q9Y283	INVS	Inversin;INVS;PTN002516692;orthologs	INVERSIN (PTHR24178:SF2)		Homo sapiens
+HUMAN|HGNC=6645|UniProtKB=O43900	PRICKLE3	Prickle planar cell polarity protein 3;PRICKLE3;PTN002516874;orthologs	PRICKLE PLANAR CELL POLARITY PROTEIN 3 (PTHR24211:SF19)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=1460|UniProtKB=Q9UQM7	CAMK2A	Calcium_calmodulin-dependent protein kinase type II subunit alpha;CAMK2A;PTN002539368;orthologs	CALCIUM_CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II SUBUNIT ALPHA (PTHR24347:SF384)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=7553|UniProtKB=P01106	MYC	Myc proto-oncogene protein;MYC;PTN002479626;orthologs	MYC PROTO-ONCOGENE PROTEIN (PTHR45851:SF1)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7174|UniProtKB=P09237	MMP7	Matrilysin;MMP7;PTN002469015;orthologs	MATRILYSIN (PTHR10201:SF143)	metalloprotease(PC00153)	Homo sapiens
+HUMAN|HGNC=904|UniProtKB=Q9Y2T1	AXIN2	Axin-2;AXIN2;PTN002474407;orthologs	AXIN-2 (PTHR46102:SF1)	scaffold/adaptor protein(PC00226)	Homo sapiens
+HUMAN|HGNC=6698|UniProtKB=O75581	LRP6	Low-density lipoprotein receptor-related protein 6;LRP6;PTN002541533;orthologs	LOW-DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 6 (PTHR46513:SF40)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=9315|UniProtKB=P16298	PPP3CB	Serine_threonine-protein phosphatase 2B catalytic subunit beta isoform;PPP3CB;PTN002481535;orthologs	SERINE_THREONINE-PROTEIN PHOSPHATASE 2B CATALYTIC SUBUNIT BETA ISOFORM (PTHR45673:SF7)	protein phosphatase(PC00195)	Homo sapiens
+HUMAN|HGNC=1462|UniProtKB=Q13557	CAMK2D	Calcium_calmodulin-dependent protein kinase type II subunit delta;CAMK2D;PTN002539365;orthologs	CALCIUM_CALMODULIN-DEPENDENT PROTEIN KINASE TYPE II SUBUNIT DELTA (PTHR24347:SF365)	non-receptor serine/threonine protein kinase(PC00167)	Homo sapiens
+HUMAN|HGNC=19989|UniProtKB=Q9UJX6	APC2	Anaphase-promoting complex subunit 2;ANAPC2;PTN002484879;orthologs	ANAPHASE-PROMOTING COMPLEX SUBUNIT 2 (PTHR45957:SF1)		Homo sapiens
+HUMAN|HGNC=15511|UniProtKB=Q9ULK5	VANGL2	Vang-like protein 2;VANGL2;PTN002501019;orthologs	VANG-LIKE PROTEIN 2 (PTHR20886:SF10)		Homo sapiens
+HUMAN|HGNC=11998|UniProtKB=P04637	TP53	Cellular tumor antigen p53;TP53;PTN002479088;orthologs	CELLULAR TUMOR ANTIGEN P53 (PTHR11447:SF6)	P53-like transcription factor(PC00253)	Homo sapiens
+HUMAN|HGNC=20866|UniProtKB=Q9BXY4	RSPO3	R-spondin-3;RSPO3;PTN002510748;orthologs	R-SPONDIN-3 (PTHR46987:SF1)		Homo sapiens
+HUMAN|HGNC=4042|UniProtKB=Q9ULV1	FZD4	Frizzled-4;FZD4;PTN002477899;orthologs	FRIZZLED-4 (PTHR11309:SF23)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=4041|UniProtKB=Q9NPG1	FZD3	Frizzled-3;FZD3;PTN002477905;orthologs	FRIZZLED-3 (PTHR11309:SF22)	transmembrane signal receptor(PC00197)	Homo sapiens
+HUMAN|HGNC=15718|UniProtKB=Q8J025	APCDD1	Protein APCDD1;APCDD1;PTN002524979;orthologs	PROTEIN APCDD1 (PTHR31021:SF2)		Homo sapiens

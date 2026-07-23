@@ -1,0 +1,17 @@
+VEGF signaling pathway (VEGF)  hsa04370
+Парето-оптимальные гены для клеточного типа: Adipocyte
+PIK3CA
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MAPKAPK2
+RAF1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+PIK3R3
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+PLCG2
+Парето-оптимальные гены для клеточного типа: Lymphoid
+RAC2
+Парето-оптимальные гены для клеточного типа: Neural cell
+PTK2
+SRC
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1

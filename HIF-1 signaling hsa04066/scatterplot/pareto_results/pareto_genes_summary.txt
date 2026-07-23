@@ -1,0 +1,21 @@
+HIF-1 signaling hsa04066
+Парето-оптимальные гены для клеточного типа: Adipocyte
+IGF1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+EGLN1
+EGF
+INS
+EGLN3
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+EPAS1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+CDKN1B
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+PDHB
+EIF4EBP1
+Парето-оптимальные гены для клеточного типа: Myeloid
+MKNK1
+HIF1A
+MAPK1
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PIK3R1

@@ -1,0 +1,15 @@
+Гены с доминирующим типом клетки: Endothelial cell
+============================================================
+
+PF4
+CXCL3
+CXCL2
+CXCL9
+CXCL10
+CXCL11
+TNFRSF10B
+ACVRL1
+CCL1
+CSF3
+GH1
+IL27RA

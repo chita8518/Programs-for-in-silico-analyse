@@ -1,0 +1,19 @@
+Гены с доминирующим типом клетки: Adipocyte
+============================================================
+
+DVL1
+FZD5
+GSK3B
+RUVBL1
+RYK
+DVL3
+CTBP1
+CUL1
+TLE1
+LRP5
+FZD4
+AXIN1
+CREBBP
+SIAH1
+WNT3
+EP300

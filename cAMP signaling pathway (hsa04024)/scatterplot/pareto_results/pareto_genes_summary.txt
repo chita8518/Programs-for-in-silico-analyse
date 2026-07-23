@@ -1,0 +1,44 @@
+cAMP signaling pathway (hsa04024)
+Парето-оптимальные гены для клеточного типа: Adipocyte
+ATP1A2
+CRH
+RAC3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+CAMK2B
+ATP2A2
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+POMC
+GNAI2
+CALML3
+CALM1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+ADCY1
+CALML5
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+GRIN2B
+CRHR1
+GNAS
+Парето-оптимальные гены для клеточного типа: Lymphoid
+RAC2
+Парето-оптимальные гены для клеточного типа: Mast cell
+SLC9A1
+ADCYAP1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+JUN
+SST
+GRIN1
+TIAM1
+Парето-оптимальные гены для клеточного типа: Mural cell
+ATP1B2
+SSTR2
+Парето-оптимальные гены для клеточного типа: Myeloid
+GNAI3
+VAV1
+CALM3
+Парето-оптимальные гены для клеточного типа: Neural cell
+GCG
+GRIA1
+FXYD1
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PLN
+CACNA1C

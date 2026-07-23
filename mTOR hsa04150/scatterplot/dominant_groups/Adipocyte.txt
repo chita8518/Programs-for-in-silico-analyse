@@ -1,0 +1,16 @@
+Гены с доминирующим типом клетки: Adipocyte
+============================================================
+
+MTOR
+RRAGC
+SOS1
+PIK3CA
+SLC38A9
+RRAGB
+MAPKAP1
+LRP5
+FZD4
+NPRL3
+WDR24
+RPTOR
+PRR5

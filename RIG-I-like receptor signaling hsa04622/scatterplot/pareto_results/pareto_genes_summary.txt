@@ -1,0 +1,27 @@
+RIG-I-like receptor signaling hsa04622
+Парето-оптимальные гены для клеточного типа: Adipocyte
+DDX58
+TRAF3
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+MAPK9
+IFNA1
+TRAF6
+MAPK8
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+ISG15
+RELA
+Парето-оптимальные гены для клеточного типа: Lymphoid
+TNF
+CYLD
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+NFKB1
+TRADD
+IRF3
+Парето-оптимальные гены для клеточного типа: Myeloid
+IKBKE
+IKBKB
+TBK1
+Парето-оптимальные гены для клеточного типа: Neural cell
+IFNA5
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+TRAF2

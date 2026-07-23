@@ -1,0 +1,21 @@
+CardiacВ muscleВ contractionВ hsa04260
+Парето-оптимальные гены для клеточного типа: Adipocyte
+CACNG1
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+CACNA1D
+ACTC1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+COX6C
+COX6A1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+MT-CO1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+COX7C
+COX4I1
+COX6B1
+Парето-оптимальные гены для клеточного типа: Myeloid
+MT-CO2
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+CACNB2
+CACNA1C
+COX5A

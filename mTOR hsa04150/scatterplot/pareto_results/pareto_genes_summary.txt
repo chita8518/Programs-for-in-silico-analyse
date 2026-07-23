@@ -1,0 +1,32 @@
+mTOR hsa04150
+Парето-оптимальные гены для клеточного типа: Adipocyte
+SOS1
+FZD4
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+RAF1
+RRAGD
+ULK1
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+LAMTOR5
+LAMTOR1
+MAPK3
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+PRR5L
+MAP2K2
+Парето-оптимальные гены для клеточного типа: Lymphoid
+NPRL2
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+WNT5A
+LAMTOR3
+EIF4EBP1
+MLST8
+Парето-оптимальные гены для клеточного типа: Myeloid
+ATP6V1B2
+MAP2K1
+Парето-оптимальные гены для клеточного типа: Neural cell
+LRP6
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+RICTOR
+PIK3R1
+BRAF
+INSR

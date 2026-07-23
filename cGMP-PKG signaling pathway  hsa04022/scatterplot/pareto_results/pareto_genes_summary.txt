@@ -1,0 +1,38 @@
+cGMP-PKG signaling pathway  hsa04022
+Парето-оптимальные гены для клеточного типа: Adipocyte
+ATP1A2
+PPP3CA
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+GATA4
+ATP2A2
+ATP1A3
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+CALM2
+GNAI2
+NOS3
+CALM1
+Парето-оптимальные гены для клеточного типа: Fibroblast
+ADCY1
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+ADCY8
+EDNRB
+CNGB1
+NFATC1
+Парето-оптимальные гены для клеточного типа: Lymphoid
+NFATC2
+Парето-оптимальные гены для клеточного типа: Mast cell
+ITPR1
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+ATP1A1
+Парето-оптимальные гены для клеточного типа: Mural cell
+ADCY3
+NFATC4
+ATP1B2
+Парето-оптимальные гены для клеточного типа: Myeloid
+GNAI3
+PPP3R1
+GNAQ
+CALM3
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+PLN
+CACNA1C

@@ -1,0 +1,13 @@
+Summary Statistics  
+Number of nodes 121  
+Number of edges 322  
+Avg. number of neighbors    6,062  
+Network diameter   9  
+Network radius   5  
+Characteristic path length    3,983  
+Clustering coefficient    0,643  
+Network density    0,063  
+Network heterogeneity    0,590  
+Network centralization    0,170  
+Connected components   8  
+Analysis time (sec)    0,042  

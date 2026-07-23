@@ -1,0 +1,26 @@
+ECM-receptor interaction hsa04512
+Парето-оптимальные гены для клеточного типа: Adipocyte
+ITGB5
+Парето-оптимальные гены для клеточного типа: Atrial Cardiomyocyte
+ITGB3
+Парето-оптимальные гены для клеточного типа: Endothelial cell
+ITGA6
+ITGB1
+LAMA5
+Парето-оптимальные гены для клеточного типа: Fibroblast
+FN1
+LAMA2
+Парето-оптимальные гены для клеточного типа: Lymphatic Endothelial cell
+LAMB2
+ITGA5
+Парето-оптимальные гены для клеточного типа: Mesothelial cell
+LAMC2
+LAMA1
+LAMA3
+Парето-оптимальные гены для клеточного типа: Myeloid
+THBS1
+Парето-оптимальные гены для клеточного типа: Neural cell
+DAG1
+ITGB4
+Парето-оптимальные гены для клеточного типа: Ventricular Cardiomyocyte
+ITGAV
